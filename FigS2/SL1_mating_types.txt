@@ -1,0 +1,11 @@
+Reads mapped against scaffold11994:
+    964 SN17
+     71 SN12
+      9 SN10
+      1 SN05
+Reads mapped against scaffold11899:
+     54 SN14
+     28 SN15
+      8 SN06
+      4 SN17
+      3 SN16

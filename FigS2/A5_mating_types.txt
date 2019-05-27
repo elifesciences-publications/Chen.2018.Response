@@ -1,0 +1,16 @@
+Reads mapped against scaffold4735:
+    268 SN05E
+     15 SN06C
+      8 SN03E
+      5 SN01H
+      2 SN03C
+      1 SN02A
+Reads mapped against scaffold2225:
+   1947 SN01H
+    407 SN06C
+    386 SN05D
+    270 SN05B
+     58 SN03C
+      5 SN05E
+      3 SN03E
+      1 SN02A
