@@ -1,0 +1,2489 @@
+Single nucleus sequencing reveals evidence of inter-nucleus recombination in arbuscular mycorrhizal fungi. Eric C.H. Chen, Stephanie Mathieu, Anne Hoffrichter, Kinga Sedzielewska-Toro, Max Peart, Adrian Pelin, Steve Ndikumana, Jeanne Ropars, Steven Dreissig, Jörg Fuchs, Andreas Brachmann, and Nicolas Corradi 																	
+																	
+Supplemental file 6. Genotype of variable regions in dikaryons in the first 100 scaffold. This is the complete list of SNPs used to compute similarity matrix for Figure 3. Nuclei with a PCR proven MAT-locus are coloured. Green and yellow are used to highlight the two different genotypes present.																	
+(b) R. irregularis A5																	
+scaffold	reference	position	SN03E	SN05E	SN01H	SN03C	SN05B	SN05D	SN06C	SN02A							
+scaffold1	C	254949		C	A		A			A							
+scaffold1	G	256870		G	A	A	A	A		A							
+scaffold1	C	257627		G	C		C			C							
+scaffold1	A	257977		A	G	G	G	G		G							
+scaffold1	G	262963		G	A	A	A			A							
+scaffold1	c	334378		c	T			R	T								
+scaffold1	t	351703			A			A	A	A							
+scaffold1	G	351765	G		A			A		R							
+scaffold2	a	11613	G		a		a		a	a							
+scaffold2	T	19805	C		T	T	T		T	T							
+scaffold2	C	20799	T		C		C		C	C							
+scaffold2	c	63048	c		T	T			R								
+scaffold2	T	63618	G	G	T	T											
+scaffold2	G	64533	G		T	T	T										
+scaffold2	T	65824	T	T	C	C	C										
+scaffold2	G	69638		G	A		A										
+scaffold2	G	80188	A	A	G	G	G										
+scaffold2	G	80849	A	A	G	G	G										
+scaffold2	G	82284		G	T	T	T										
+scaffold2	C	82362	T	T	C	C	C										
+scaffold2	T	86163		A	T	T	T	T									
+scaffold2	C	86176		T	C	C	C	C									
+scaffold2	C	88341		C	T	T	T										
+scaffold2	A	91233		A	G	G	G		G								
+scaffold2	G	95076	A	A	G	G	G		G								
+scaffold2	C	95646		T	C	C	C		C								
+scaffold2	T	95812		T	C	C	C		C								
+scaffold2	C	96670	C	C	T	T	T		T								
+scaffold2	T	98664	C	C	T	T	T		T								
+scaffold2	C	99185		C	A	A	A		A	A							
+scaffold2	T	99607		A	T	T	T		T								
+scaffold2	T	102312		C	T	T	T		T								
+scaffold2	T	102419		G	T	T	T		T								
+scaffold2	C	105266	T	T	C	C	C		C								
+scaffold2	C	105562	T	T	C	C	C		C	C							
+scaffold2	T	105833			C	C	C		C	C							
+scaffold2	C	106778	C		T	T	T		T								
+scaffold2	T	109613	T	T	C	C	C		C								
+scaffold2	a	129025		G		a	a		a	a							
+scaffold2	T	129234		C		T	T		T								
+scaffold2	A	129754		G		A	A		A	A							
+scaffold2	C	130160		C		T	T		T	T							
+scaffold2	G	130465		T		G	G		G	G							
+scaffold2	C	131710	C	A		C	C		C								
+scaffold2	T	131971				C	C	R	C								
+scaffold2	G	134526		A		G	G		G	G							
+scaffold2	A	135476				G	G		G	G							
+scaffold2	T	135632		T		R	G		G	G							
+scaffold2	A	135640		A		G	G		G	G							
+scaffold2	A	135707	A	A		T	T		T	T							
+scaffold2	C	135975		C		G	G	G	G								
+scaffold2	G	136198				A	A		A	R							
+scaffold2	a	136291	a			T	T		T								
+scaffold2	a	137778		T		a	a		a								
+scaffold2	C	137918		T		C	C		C								
+scaffold2	a	138130	T	T		a	a		a								
+scaffold2	G	138240				A	A		A								
+scaffold2	C	139209		A		C	C	C	C	C							
+scaffold2	T	140167		A		T	T		T								
+scaffold2	G	141455		A		G	G		G	G							
+scaffold2	A	141665		G	A	A	A	A	A								
+scaffold2	C	141790	C	C	T	T	T	T	T	T							
+scaffold2	A	143572		C	A	A	A		A	A							
+scaffold2	A	143944		G		A	A	A	A	A							
+scaffold2	A	145948			T	T	T	T	T	T							
+scaffold2	A	146642	T	T		A	A		A								
+scaffold2	a	146712				T	T	T	T								
+scaffold2	t	146721				C	C	C	C								
+scaffold2	G	148628				A	A		A								
+scaffold2	C	152776			A	A	A	A	A								
+scaffold2	A	155840			G		G		G								
+scaffold2	G	156116			R	A	A	A	A								
+scaffold2	T	159545			A	A	A		A	A							
+scaffold2	G	160073			A		A		A								
+scaffold2	G	162446			A	A	A		A	A							
+scaffold2	T	165265			C		C		C	C							
+scaffold2	T	166385			T		T	R	T								
+scaffold2	A	168693			G	G	G		G								
+scaffold2	c	173884					T		T								
+scaffold2	C	174945					T		T								
+scaffold2	C	175529	T				T		T								
+scaffold2	A	176063			C		C		C								
+scaffold2	G	182051			A	A	A		A								
+scaffold2	G	182082			A	A	A		A								
+scaffold2	A	182089			G	G	G		G								
+scaffold2	C	185706					T		T								
+scaffold2	C	193578			C		R		C								
+scaffold3	C	17483	C		T	T	T	T		T							
+scaffold3	A	28109			G		G	G									
+scaffold3	A	32504			G		G	G									
+scaffold3	C	39986	C		T		T	T									
+scaffold3	t	42859			A		A	A									
+scaffold3	T	50534			C		C		C	C							
+scaffold3	c	50638					A	A	A								
+scaffold3	c	50669					T	T	T								
+scaffold3	T	50711			C		C										
+scaffold3	G	50729					T										
+scaffold3	T	50791			C				C	C							
+scaffold3	G	50983			A		A										
+scaffold3	T	52019			G	G	G	G	G								
+scaffold3	A	65190					G	G									
+scaffold3	A	68292			G	G	G	G		G							
+scaffold3	A	145119			G		G	G	G	G							
+scaffold3	T	159906	G		T		T	T		T							
+scaffold3	T	186426	T		A		A	A	A	A							
+scaffold3	C	188863	A		C		C	C	C	C							
+scaffold3	C	194595			T		T		T	T							
+scaffold3	a	204344	G		a		a		a	a							
+scaffold3	c	214633	c		T		T		T	T							
+scaffold3	T	234975	T	T	A	A	A										
+scaffold3	T	235407	A		T	T	T										
+scaffold3	A	235460		G	A	A	A										
+scaffold3	G	242413		A	G	G	G										
+scaffold3	t	244171		C	t	t	t			t							
+scaffold3	t	244225		A	t	t	t			t							
+scaffold3	A	244298		C	A	A	A	A		A							
+scaffold3	g	244474	A	A	g	g	g		g	g							
+scaffold4	G	31078	G		T	T			T	T							
+scaffold4	t	130909			A	A	A		A	R							
+scaffold5	A	17085		G	G	R	G	G	G	G							
+scaffold5	A	20707				G	G	G	G								
+scaffold5	G	23381				A	A	A	R								
+scaffold5	C	23641				T	T	T	T								
+scaffold5	C	28544			T	T	T	T									
+scaffold5	A	28549			R	T	T	T									
+scaffold5	A	28580				G	G	G									
+scaffold5	T	28588				C	C	C									
+scaffold5	A	28638			G	G	G		G								
+scaffold5	C	28695			T	T	T	T									
+scaffold5	C	28815				T	T	T	T								
+scaffold5	G	30678			A	A	A	A									
+scaffold5	A	31146			T	T		T									
+scaffold5	g	42942	g	g	g	R	g	g	R	g							
+scaffold5	C	46936			T	T		T	T								
+scaffold5	t	55118			A	A	A	A	A								
+scaffold5	G	71765			T				T								
+scaffold5	G	80544			A	A			A								
+scaffold5	T	83566			C	C	C		C								
+scaffold5	A	134713				A	G	A	G								
+scaffold6	T	2078			C	R	C	R	C	C							
+scaffold6	g	2242			g	R	g	R	g	g							
+scaffold6	c	2288			c	R	c	R	c	c							
+scaffold6	t	2424				R	C	R	C	C							
+scaffold6	t	2540				R	t	R	t	t							
+scaffold6	a	2677			G	R	G	R	G	G							
+scaffold6	t	2806				R	C	R	C	C							
+scaffold6	c	2934			c	R	c	R	c	c							
+scaffold6	g	2960			g	R	g	R	g	g							
+scaffold6	t	2979			t	R	t	R	t	t							
+scaffold6	c	3009			c	R	c	R	c	c							
+scaffold6	a	3028			a	R	a	R	a	a							
+scaffold6	A	3479				R	G	R	G	G							
+scaffold6	T	3516				R	C	R	C	C							
+scaffold6	G	3534				R	A	R	A	A							
+scaffold6	A	3612			A	R	A	R	A	A							
+scaffold6	A	3698			G	R	G	R	G	G							
+scaffold6	C	3708			T	R	T	R	T	T							
+scaffold6	G	4050			G	R	G	R	G	G							
+scaffold6	T	4088			T	R	T	R	T	T							
+scaffold6	T	4223			C	R	C	R	C	C							
+scaffold6	a	6205		T			a		a	a							
+scaffold6	C	6381		A	C		C		C	C							
+scaffold6	T	6405		G	T		T		T	T							
+scaffold6	a	6435		T	a		a		a	a							
+scaffold6	t	6483		C	t		t	t	t	t							
+scaffold6	a	6492		G	a		a	a	a	a							
+scaffold6	C	6642	T	T	C		C		C	C							
+scaffold6	T	6789		T	A		A		A	A							
+scaffold6	C	6800		C	T		T		T	T							
+scaffold6	C	7083		T			C		C	C							
+scaffold6	G	7118		C	G		G		G	G							
+scaffold6	C	7145	T	T	C		C		C	C							
+scaffold6	C	7290	T	T			C		C	C							
+scaffold6	A	7669	G	G			A	A	A	A							
+scaffold6	C	10830	C	C	A		A		A	A							
+scaffold6	a	11328		T			a		a	a							
+scaffold6	A	12856	A	A			C		C	C							
+scaffold6	T	13706	G	G			T		T	T							
+scaffold6	T	13733	A	A			T		T	T							
+scaffold6	C	13949	C	C			A	A	A	A							
+scaffold6	C	14442		C			T		T	T							
+scaffold6	g	15738	g	g			A		A	A							
+scaffold6	G	15756	G	G			T		T	T							
+scaffold6	G	15998	A	A			G	G	G	G							
+scaffold6	T	16600	C	C			T	T	T	T							
+scaffold6	C	16723		T	C		C		C	C							
+scaffold6	G	17449		G			C		C	C							
+scaffold6	A	17622		A			G	G	G	G							
+scaffold6	A	17670		A			G		G	G							
+scaffold6	T	17857	C	C	T		T	T	T	T							
+scaffold6	T	17893	T	T	C		C	C	C	C							
+scaffold6	C	18486	A	A			C	C	C	C							
+scaffold6	T	18858	A	A			T		T	T							
+scaffold6	a	19117	a	a			T	T	T	T							
+scaffold6	g	19986	g	g			A	A	A	A							
+scaffold6	c	20517	c	c			T	T	T	T							
+scaffold6	G	21077	A	A			G		G	G							
+scaffold6	A	21143	T	T			A	A	A	A							
+scaffold6	T	21253	C	C			T	T	T	T							
+scaffold6	A	21627	A	A	T		T	R	T	T							
+scaffold6	a	21796		T			a	a	a	a							
+scaffold6	G	21963	G	G			A		A	A							
+scaffold6	C	22111	T	T			C	C	C	C							
+scaffold6	C	22848		T			C	C	C	C							
+scaffold6	G	23100	A	A	G		G	G	G	G							
+scaffold6	A	23647	A	A	G		G	G	G	G							
+scaffold6	T	23818	C	C			T	T	T	T							
+scaffold6	G	24626	T	T	G		G	G	G	G							
+scaffold6	c	27012	A	A	c		c	c	c	c							
+scaffold6	A	30254	G	G	A	A	A	A	A	A							
+scaffold6	G	30619	A	A	G	G	G	G	G	G							
+scaffold6	G	33056	T	T	G	G	G	G	G	G							
+scaffold6	G	33699	A	A	G	G	G	G	G	G							
+scaffold6	T	34466	C	C	T	T	T	T	T	T							
+scaffold6	A	35082	G	G	A	A	A	A		A							
+scaffold6	A	35319	T	T	A	A	A	A	A	A							
+scaffold6	T	35765	C	C	T	T	T	T	T	T							
+scaffold6	G	36034	G	G	A	A	A	A		A							
+scaffold6	A	36185	G	G	A	A	A	A	A	A							
+scaffold6	G	37014	A	A	G	G	G	G	G	G							
+scaffold6	G	37386	A	A	G	G	G	G	G	G							
+scaffold6	C	38374	T	T	C	C	C	C	C	C							
+scaffold6	t	39108	A		t	t	t	t	t	t							
+scaffold6	c	41922	c	c	T	T	T	T	T	T							
+scaffold6	G	43144	G	G	T	T	T	T		T							
+scaffold6	A	43623		G	A	A	A	A		A							
+scaffold6	t	49927		A	t	t	t	t		t							
+scaffold6	A	51889		A	T	T	T	T		T							
+scaffold6	C	178865			T				R	T							
+scaffold6	a	179534			G				G	G							
+scaffold6	T	180116			G				G	G							
+scaffold6	A	183090			G					G							
+scaffold6	A	183121			C					C							
+scaffold6	C	183260			T					T							
+scaffold6	G	183305			A					A							
+scaffold6	G	183465			A					A							
+scaffold6	T	186412			C					C							
+scaffold7	T	116367	A		T												
+scaffold7	C	122566	C		A					A							
+scaffold7	T	122576	T		G					G							
+scaffold7	g	122989			A	A											
+scaffold7	A	127411	G		A					A							
+scaffold7	G	127816	A		G					G							
+scaffold7	G	127858	A		G				G	G							
+scaffold7	C	128187			T					T							
+scaffold7	T	128221			C					C							
+scaffold7	C	131381	T		C												
+scaffold7	C	131418	T		C												
+scaffold7	A	133385			C			C		C							
+scaffold7	A	142125	A		G	G		G	G	G							
+scaffold7	A	142213			G	G		G	G	G							
+scaffold7	T	142302	A		T	T		T	T	T							
+scaffold8	G	4547		A	G		G	G		G							
+scaffold8	T	4580		C	T		T	T		T							
+scaffold8	G	4868		A	G		G	G	G	G							
+scaffold8	a	5407		T	a		a	a	a	a							
+scaffold8	c	5488		T	c		c			c							
+scaffold8	T	8177		A	T		T		T	T							
+scaffold8	t	8533		C	t		t			t							
+scaffold8	G	8597		A	G		G			G							
+scaffold8	C	8639		A	C		C		C	C							
+scaffold8	A	8919		G	A		A		A	A							
+scaffold8	G	10531		G	A		A	R	A	A							
+scaffold8	T	10892		T	A		A		A	A							
+scaffold8	a	11886	G	G	a		a	a	a	a							
+scaffold8	t	12488	t	A	t		t		t	t							
+scaffold8	G	12729	A	A	G		G	G	G	G							
+scaffold8	A	13074		G	A		A			A							
+scaffold8	C	19519		C	T		T			T							
+scaffold8	C	22090		C	T		T			T							
+scaffold8	T	45751		C		T	T			T							
+scaffold8	a	46156	T	T	a	a	a		a	a							
+scaffold8	T	47295	A	A	T	T	T			T							
+scaffold8	T	48105	T	T	C	C	C			C							
+scaffold8	T	48236	T	T	C	C	C			C							
+scaffold8	C	48502	C	C	T	T	T			T							
+scaffold8	a	50308	a	a	T	T				T							
+scaffold8	c	50599	c	c	c	c	R			c							
+scaffold8	t	52112	t	t	A	A	R			A							
+scaffold8	a	52137	a	a	G	G	G			G							
+scaffold8	a	52158	a	a	T	T	T			T							
+scaffold8	C	52386	C	C	T	T	T			T							
+scaffold8	A	52434	A	A	G	G	G			G							
+scaffold8	G	52965	G	G	A	A	A			A							
+scaffold8	G	54143	A	A	G	G	G		G	G							
+scaffold8	A	54242	A	A	T	T	T			T							
+scaffold8	T	54494		C	T	T	T			T							
+scaffold8	C	54645	C	C	T	T	T			T							
+scaffold8	A	54682		A	G	G	G			G							
+scaffold8	C	54834		G	C	C	C			C							
+scaffold8	C	58361	C	C	T	T	T			T							
+scaffold8	C	58380	C	C	G	G				G							
+scaffold8	C	58426	C	C	T	T	T		T	T							
+scaffold8	C	59227	T	T	C	C	C		C	C							
+scaffold8	C	59593		C	A	A	A		A	A							
+scaffold8	T	60250		T	C	C	C		C	C							
+scaffold8	C	60301		C	T	T	T		T	T							
+scaffold8	G	60328		G	A	A	A		A	A							
+scaffold8	C	61060		T	C	C	C		C	C							
+scaffold8	C	61187		T	C	C	C		C	C							
+scaffold8	T	61234		T	C	C				C							
+scaffold8	G	61549		G	A	A	A		A	A							
+scaffold8	A	61949		G	A	A	A		A	A							
+scaffold8	G	62042		G	T	T	T	T	T	T							
+scaffold8	T	62096		A	T	T	T	T	T	T							
+scaffold8	C	62122		A	C	C	C	C		C							
+scaffold8	A	62137		G	A	A	A	A		A							
+scaffold8	T	62889		C	T	T	T		T	T							
+scaffold8	C	62935		T	C	C		C	C	C							
+scaffold8	G	63548		T	G	G	G		G	G							
+scaffold9	G	20674	A	G	A	A		R	A	A							
+scaffold9	T	20682	T	T	C	C		R	C	C							
+scaffold9	C	20697	C	C	A	A		R	A	A							
+scaffold9	a	84556		T	a	a			a								
+scaffold9	C	92198		C	T	T			T								
+scaffold9	C	92294	C	C		T			T								
+scaffold9	T	93846	A	A	T	T			T								
+scaffold9	a	94514		T		a			a	a							
+scaffold9	A	95398		T	A	A			A								
+scaffold9	G	95560	A	A		G			G								
+scaffold9	t	96019	C	C	t	t			t								
+scaffold9	C	97672	C	C	T	T			T								
+scaffold9	a	98775	a	a		T			T								
+scaffold9	A	100594	A	A	C	C			C	C							
+scaffold9	C	101673	T	T	C	C			C								
+scaffold9	T	102984	C	C	T	T			T								
+scaffold9	c	104908		T		c			c								
+scaffold9	A	105685	A	A	G	G			G								
+scaffold9	a	105918	a	a	G	G			G								
+scaffold9	T	106986	G	G	T	T			T								
+scaffold9	A	107435	A	A	G	G			G								
+scaffold9	t	113307	C	C	t	t			t								
+scaffold9	A	113852	A	A	G	G			G								
+scaffold9	T	113891	T	T	C	C			C								
+scaffold9	T	113914	T	T	C	C			C								
+scaffold9	A	113955	A	A	T	T			T								
+scaffold9	A	114030	A	A	T	T			T								
+scaffold9	G	114091	G	G	T	T			T								
+scaffold9	C	114115	C	C	T	T			T								
+scaffold9	T	114156	T	T	C	C			C								
+scaffold9	T	114210	T	T	C	C			C								
+scaffold9	A	114542	A	A	T	T			T								
+scaffold9	C	114693	C	C	G	G			G								
+scaffold9	C	114804	A	A	C	C			C								
+scaffold9	C	114846	T	T	C	C	C		C								
+scaffold9	T	114852	A	A	T	T	T		T								
+scaffold9	a	124018	a	a	C				C								
+scaffold9	a	137415	a	a	T				T	T							
+scaffold9	G	137423	G	G	A				A	A							
+scaffold10	A	377	A	T	T	R	T	T	T	T							
+scaffold10	G	2706		C	G	G	G	G	G	G							
+scaffold10	T	3035		C	T	T	T	T	T	T							
+scaffold10	G	8672	A	A	G	G	G	G	G	G							
+scaffold10	G	11800		G	A	A	A	A		A							
+scaffold10	G	18829	A	A	G	G	G	G		G							
+scaffold10	A	43534			G		G		G	G							
+scaffold10	A	65073		T	A		A			A							
+scaffold10	A	68537		A	G		G			G							
+scaffold10	G	89824	G	G	A	A	A			A							
+scaffold10	G	94285	A	A	G	G	G			G							
+scaffold10	A	95995		C	A	A	A			A							
+scaffold10	T	116639		G	T		T										
+scaffold10	c	116755		T	c		c	c									
+scaffold12	A	17089			G	G		G	G	G							
+scaffold13	C	33311				T	T	R		T							
+scaffold13	C	35025					T	R	T	T							
+scaffold13	G	35441					A			A							
+scaffold13	g	57644			A	A	A	R	A	A							
+scaffold13	a	57653			T	T	T	R	T	T							
+scaffold13	a	57695			T	T	T		T	T							
+scaffold13	C	76837	C		T	T	T		T	T							
+scaffold13	G	95050	G		A		A			A							
+scaffold13	T	99830	A		T		T	T		T							
+scaffold13	C	117433	T		C	C	C	C	C	C							
+scaffold13	T	120416	A		T	T	T	T	T	T							
+scaffold13	G	129075	A		G	G	G		G	G							
+scaffold14	T	7482	T	T	C	C	C	C	C	C							
+scaffold14	A	9789		G	A	A	A	A		A							
+scaffold14	A	9887		A	G	G	G	G	G	G							
+scaffold14	G	10432		G	A	A	A	A	A	A							
+scaffold14	T	10479		T	C	C	C	C	C	C							
+scaffold14	A	10576		A	G	G	G	G	G	G							
+scaffold14	G	10583		G	A	A	A	A	A	A							
+scaffold14	G	10591		G	A	A	A	A	A	A							
+scaffold14	C	10601		C	T	T	T	T	R	T							
+scaffold14	G	10830		G	T	T	T	T	T	T							
+scaffold14	T	10992		A	T	T	T	T	T	T							
+scaffold14	A	39677	G	A	A		A	A	A	A							
+scaffold14	A	39701	G	A	A		A	A	A	A							
+scaffold14	G	39989	A	G	G		G		G	G							
+scaffold14	T	40092	C	T	T	T	T		T	T							
+scaffold14	T	40133	C	T	T		T		T	T							
+scaffold14	G	40516	A	G	G		G		G	G							
+scaffold14	A	41190	G	A	A		A		A	A							
+scaffold14	G	41363	A	G	G		G		G	G							
+scaffold14	T	41467	C	T	T		T	T	T	T							
+scaffold15	G	1833			A		A			A							
+scaffold15	C	2325			T		T	T	T	T							
+scaffold15	C	5398			T		T	R	T	T							
+scaffold15	T	7684			C		C	C	C	C							
+scaffold15	T	10142			A		A		A	A							
+scaffold15	T	10499			C		C	C	C	C							
+scaffold15	C	10540			T		T	T	T	T							
+scaffold15	A	11002			C		C	C	C	C							
+scaffold15	A	12070			G		G	G	G	G							
+scaffold15	C	12669			T		T	T		T							
+scaffold15	A	12738			G		G	G	G	G							
+scaffold15	G	13638	A		G		G	G	G	G							
+scaffold15	C	14657			T		T			T							
+scaffold15	A	16708			G		G		G	G							
+scaffold15	C	18198			G	R			G	G							
+scaffold15	T	18238			C	C	C	C	C	C							
+scaffold15	A	20050			C			C	C	C							
+scaffold15	G	20614			A				R	A							
+scaffold15	G	21540			T		T			T							
+scaffold15	A	21555			G		G			G							
+scaffold15	A	25000			G		G			G							
+scaffold15	A	27138			G		G	G	G	G							
+scaffold15	A	27178			G		G	G		G							
+scaffold15	G	27499			A		A			A							
+scaffold15	C	28494			A		A			A							
+scaffold15	T	30115			C		C	C		C							
+scaffold15	A	31545			G		G	G		G							
+scaffold15	T	32623			C		C	C		C							
+scaffold15	T	33069			C					C							
+scaffold15	C	33513			T					T							
+scaffold15	A	34909			G					G							
+scaffold15	A	36047			G			G		G							
+scaffold15	T	36142	T		C					C							
+scaffold15	T	36505	T		C	R				C							
+scaffold15	A	36525	A		G												
+scaffold15	C	36584	C		T					T							
+scaffold15	A	37609	G		A			A		A							
+scaffold15	G	37714			A			A		A							
+scaffold15	A	41443			G			G		G							
+scaffold15	C	42477			T					T							
+scaffold15	G	43897			A				A	A							
+scaffold15	T	44209	C		T	T				T							
+scaffold15	T	44459			C					C							
+scaffold15	A	49813			C			C		C							
+scaffold15	C	50873	C		T	T				T							
+scaffold15	C	50941			T	T	T			T							
+scaffold15	G	51315			A	A		R									
+scaffold15	C	52231			T	T				T							
+scaffold15	G	55041			A				A	A							
+scaffold15	C	55088			T	T				T							
+scaffold15	G	55710			A	A				A							
+scaffold15	C	55925			T	R			T	T							
+scaffold15	C	56479			T	T			T	T							
+scaffold15	G	60643	G		A				A	A							
+scaffold15	G	61488			T				T	T							
+scaffold15	G	62830	G		T				T	T							
+scaffold15	A	64526	G		A				A								
+scaffold15	T	64587	C		T				T								
+scaffold15	C	65361			T	T			T								
+scaffold15	C	66969	C		T	T			T								
+scaffold15	G	67666			A				A								
+scaffold15	C	67718			T				T	T							
+scaffold15	C	69029	C		T		T		T	T							
+scaffold15	T	69386	C		T				T	T							
+scaffold15	T	70968	C		T		T		T	T							
+scaffold15	A	72535	G		A	A	A		A								
+scaffold15	A	74497	G		A	A	A		A	A							
+scaffold15	T	75000	T		A	A	A		A								
+scaffold15	C	75644			T	T	T		T	T							
+scaffold15	A	75975	G		A	A	A		A	A							
+scaffold15	A	76023	G		A		A		A								
+scaffold15	G	78297	G		A	A	A		A	A							
+scaffold15	A	78829	G		A		A		A								
+scaffold15	C	81885			T	T	T		T	T							
+scaffold15	T	82447	C		T	T	T	T	T	T							
+scaffold15	C	83112			T	T	T		T	T							
+scaffold15	T	83499			G	G	G		G								
+scaffold15	G	83922			A	A	A		A								
+scaffold15	C	84024	C		T		T		T	T							
+scaffold15	C	85685			T	T	T		T	T							
+scaffold15	T	86641	C		T	T	T		T	T							
+scaffold15	C	86921	C		T	T	T		T	T							
+scaffold15	G	86950			A	A	A		A	A							
+scaffold15	G	89221			A	A	A		A	A							
+scaffold15	G	89444	G		A	A	A		A	A							
+scaffold15	C	90294			T	T	T		T	T							
+scaffold15	C	90430			T	T	T		T	T							
+scaffold15	G	90465			A	A	A		A	A							
+scaffold15	C	90784			T	T	T		T	T							
+scaffold15	C	91682			T	T	T		R	T							
+scaffold15	T	92119			A	A	A		A	A							
+scaffold15	G	92166	G		A	A	A		A	A							
+scaffold15	A	95485			T	T	T			T							
+scaffold15	C	95657			T	T	T			T							
+scaffold15	G	95794			A	A	A			A							
+scaffold15	G	96801			T	T			R	T							
+scaffold15	G	96939			A	A	A										
+scaffold15	C	97353	C		T	T	T		T	T							
+scaffold15	G	97647			A	A	A			A							
+scaffold15	C	98867			T	T	T			T							
+scaffold15	A	99908	G		A	A	A										
+scaffold15	C	100939			T	T	T	T		T							
+scaffold15	A	102599			G		G			G							
+scaffold15	G	102695			A		A			A							
+scaffold15	A	105510			G		G			G							
+scaffold15	G	105830			A		A			A							
+scaffold15	T	108388			C		C			C							
+scaffold15	T	108426			C		C			C							
+scaffold15	A	108491			G		G			G							
+scaffold15	G	108516			A		A			A							
+scaffold15	G	108543			A		A			A							
+scaffold15	A	109044			G			G		G							
+scaffold15	A	109584	G		A		A			A							
+scaffold15	G	110010		G	A		A	A		A							
+scaffold15	A	110545			G		G			G							
+scaffold15	A	112541			G		R			G							
+scaffold15	T	112875	T		C					C							
+scaffold15	T	112933			C					C							
+scaffold15	T	113601	T		C		C			C							
+scaffold15	T	116658			C		C	C		C							
+scaffold16	A	4720			C		C	C	C								
+scaffold16	A	8617			G		G	G	G	G							
+scaffold16	T	9447	A		T		T	T	T	T							
+scaffold16	A	9616	A		G			G	G								
+scaffold16	T	9642	T		C		C	C	C								
+scaffold16	G	10829		G	A		A	A	A	A							
+scaffold16	G	10886		G	T		T	T	T	T							
+scaffold16	T	10918			C		C	C	C	C							
+scaffold16	C	10930		C	T		R	T	T	T							
+scaffold16	A	10947		A	T		R	T	T	T							
+scaffold16	A	11570	A	A	G		G	R	G								
+scaffold16	A	12469	G		A		A	A	A								
+scaffold16	a	13076	T		a			a	a	a							
+scaffold16	G	15644	G	G	A		A	A	A	A							
+scaffold16	a	15934	G		a	a		a									
+scaffold16	t	16031	C		t			t	t								
+scaffold16	T	20417	A	A	T		T	T	T	T							
+scaffold16	A	21017	A	A	G	G	G	G	G	G							
+scaffold16	T	21412	C	C	T		T	T	T								
+scaffold16	C	21538	A	A	C		C	C	C	C							
+scaffold16	A	21618	A	A	G		G	G	G	G							
+scaffold16	C	21788	T	T	C		C	C	C	C							
+scaffold16	G	22894	G	G	A		A	A	A								
+scaffold16	G	22973	G	G	A		A	A	A								
+scaffold16	A	23322	T	T	A	A	A	A	A	A							
+scaffold16	C	23558	C	C	T		T	T	T	T							
+scaffold16	A	23722	A	A	G		G	G	G								
+scaffold16	t	23736	t	t	C		C	C	C								
+scaffold16	C	23816	C	C	T	T	T	T	T								
+scaffold16	T	23858	T	T	C	C	C	C	C								
+scaffold16	T	24067	C	C	T		T	T	T	T							
+scaffold16	G	24243	A	A	G	G	G	G	G	G							
+scaffold16	C	24371	C	C	T		T	T	T	T							
+scaffold16	A	24378	A	A	T		T	T	T	T							
+scaffold16	C	24455	T	T	C	C	C	C	C	C							
+scaffold16	A	24466	G	G	A	A	A	A	A	A							
+scaffold16	G	24483	A	A	G	G	G	G	G	G							
+scaffold16	a	24506	T	T	a		a	a	a								
+scaffold16	G	24684	G		A		A	A	R								
+scaffold16	C	25094	A	A	C		C	C	C								
+scaffold16	a	25461	T	T	a		a	a	a	a							
+scaffold16	t	25471	G	G	t		t	t	t	t							
+scaffold16	T	25571	T	T	C		C	C	C								
+scaffold16	T	25757	A	A	T		T	T	T	T							
+scaffold16	a	25830	G	G	a		a	a	a								
+scaffold16	A	26034	A	A	G	G	G	G	G								
+scaffold16	T	30928	C	C	T		T	T	T								
+scaffold16	C	30933	T	T	C		C	C	C								
+scaffold16	G	30941	T	T	G		G	G	G								
+scaffold16	G	30950	A	A	G		G	G	G								
+scaffold16	A	31184	T	T	A		A	A	A	A							
+scaffold16	T	31592	C	C	T		T	T	T	T							
+scaffold16	A	31993	A	A	T		T	T	T	T							
+scaffold16	C	32245	C	C	T		T	T	T	T							
+scaffold16	A	32389	G	G	A		A	A	A	A							
+scaffold16	C	33322	G	G	C		C	C	C								
+scaffold16	T	33378	C	C	T		T	T	T	T							
+scaffold16	a	35569	a	a	G		G	G	G	G							
+scaffold16	a	35575	a	a	T		T	T	T	T							
+scaffold16	T	35633	T	T	C		C	C	C	C							
+scaffold16	T	35733	T	T	C		C	C	C	C							
+scaffold16	a	36661	a	a	T		T	T	T								
+scaffold16	C	37784	T	T	C		C	C	C								
+scaffold16	G	37835	T	T	G		G	G	G								
+scaffold16	T	38948	A	A	T		T	T	T								
+scaffold16	T	39160	T	T	G		G	G	G	G							
+scaffold16	A	40157	A	A	G		G	G	G								
+scaffold16	A	42680	C	C	A		A	A	A								
+scaffold16	G	44437	G	G	A		A	A	A	A							
+scaffold16	C	44604	C	C	A		A	A	A	A							
+scaffold16	A	83564	T			A	A			A							
+scaffold17	a	81331	T	T		a	a		a								
+scaffold17	T	82213		A	T			T	T								
+scaffold17	C	83228		T	C			C	C	C							
+scaffold17	t	83691		t	A				A								
+scaffold17	a	85070		a	T				T								
+scaffold17	G	85607		A	G				G								
+scaffold17	A	85847		A	G				G	G							
+scaffold17	G	86086	G	G	A				A								
+scaffold17	G	86243		G	A				A	A							
+scaffold17	A	86256		A	T				T	T							
+scaffold17	A	86332		A	G				G	G							
+scaffold17	A	86384	A	A	C				C	C							
+scaffold17	G	86441		G	A				A	A							
+scaffold17	A	87416	A	A	T				T	T							
+scaffold17	T	87553		T	C				C	C							
+scaffold17	G	87643		G	A				A	A							
+scaffold17	T	87736		T	A				A	A							
+scaffold17	T	87741		T	A				A	A							
+scaffold17	A	88511		T	A				A								
+scaffold17	C	88582		T	C				C	C							
+scaffold17	T	89369		T	C				C	C							
+scaffold17	A	89710		C	A	A		A	A	A							
+scaffold17	A	91629		A	G	G			G	G							
+scaffold17	t	93683		t	A				A	A							
+scaffold17	C	93863		T	C				C	C							
+scaffold17	t	93928		A	t	t			t	t							
+scaffold17	T	94097	A	A	T				T	T							
+scaffold17	T	94451		T	A	A			A	A							
+scaffold17	C	95952		C	T	T		T	T	T							
+scaffold17	A	96046		A	G	G		G	G	G							
+scaffold17	T	96145		G	T	T			T	T							
+scaffold17	T	96301		A	T	T			T	T							
+scaffold17	A	96414		G	A				A	A							
+scaffold17	C	96629		C	A				A								
+scaffold17	T	96801		A	T				T								
+scaffold17	t	96849		C	t	t			t	t							
+scaffold17	G	96938		A	G	G			G								
+scaffold17	A	97055	A	G	A				A	A							
+scaffold17	C	97131		C	T				T	T							
+scaffold17	C	97801		T	C	C			C								
+scaffold17	t	100770		G	t				t								
+scaffold17	T	101520		C	T				T	T							
+scaffold17	C	101528		T	C				C	C							
+scaffold17	C	101586	C	A	C				C								
+scaffold17	T	102577		C	T				T	T							
+scaffold17	C	102615		A	C				C	C							
+scaffold17	C	102645		T	C				C	C							
+scaffold17	G	102815		G	A				A	A							
+scaffold17	G	102824		G	T				T	T							
+scaffold17	C	103099		T	C				C	C							
+scaffold17	C	103139		T	C				C	C							
+scaffold17	G	103154		A	G				G	G							
+scaffold17	G	103239		G	C				C	C							
+scaffold17	G	103250		G	C				C	C							
+scaffold17	A	103282		A	G				G	G							
+scaffold17	G	103484		T	G				G	G							
+scaffold17	C	103503		T	C				C	C							
+scaffold17	T	103542		A	T				T	T							
+scaffold17	C	103551		T	C				C	C							
+scaffold17	T	103644		T	A				A	A							
+scaffold17	C	103675	C	C	A				A	A							
+scaffold17	T	103741	T	T	C	C			C	C							
+scaffold17	C	103751	C	C	T	T			T	T							
+scaffold17	A	103842		G	A				A	A							
+scaffold17	C	105602		C	T				T	T							
+scaffold17	G	105937		G	T				T								
+scaffold17	G	106201		G	T				T	T							
+scaffold17	A	106232		A	T				T	T							
+scaffold17	G	106348		A	G				G								
+scaffold17	A	106436		G	A				A								
+scaffold17	G	106500		A	G				G								
+scaffold17	C	106645		T	C				C	C							
+scaffold17	T	106828		C	T				T	T							
+scaffold17	T	106888		T	C				C	C							
+scaffold17	T	106906		T	A				A	A							
+scaffold17	C	106946		C	A				A	A							
+scaffold17	G	107088		A	G				G	G							
+scaffold17	C	107390		G	C				C	C							
+scaffold17	A	107398		G	A				A	A							
+scaffold17	T	107413		A	T				T	T							
+scaffold17	T	107460		A	T				T	T							
+scaffold17	G	108574		G	A				A	A							
+scaffold17	C	108658		C	T				T	T							
+scaffold17	a	108789		a					a	T							
+scaffold17	A	108954		G					A	A							
+scaffold17	C	109380		T	C				C	C							
+scaffold17	G	110727		T	G				G	G							
+scaffold17	T	110891	T	T	C				C	C							
+scaffold17	A	111568		T		A			A	A							
+scaffold17	G	112303		G	A				A	A							
+scaffold17	C	112316		C	T				T	T							
+scaffold17	G	112334		G	A				A	A							
+scaffold17	T	112600		T	C				C	C							
+scaffold17	C	112664	C	C	T				T	T							
+scaffold17	T	112723	T	T	A				A	A							
+scaffold17	A	112779		A	G				G	G							
+scaffold17	C	112793	C	C	T				T	T							
+scaffold17	A	112805	A	A	G				G	G							
+scaffold17	G	112931		T					G								
+scaffold17	A	113373		A	G				G	G							
+scaffold17	T	113479		T	C				C	C							
+scaffold17	C	114666	C	A	C				C								
+scaffold17	A	114880	G	G					A	A							
+scaffold17	C	115032	T	T	C				C	C							
+scaffold17	A	115320	C	C	A				A	A							
+scaffold17	T	115666	T	T	C				C	C							
+scaffold17	A	115733	A	A	G	R		G	G	G							
+scaffold17	C	115927	C	C	T	T			T	T							
+scaffold17	T	116159	T	A	T				T	T							
+scaffold17	C	116376		T	C				C	C							
+scaffold17	T	117058	A	A	T	R			T	T							
+scaffold17	G	117206	G	G	A				A	A							
+scaffold17	t	117223	t	t					G	G							
+scaffold17	t	117396	G	G		t			t	t							
+scaffold17	T	117549		C					T	T							
+scaffold17	C	117565	T	T	C				C	C							
+scaffold17	A	117950	T	T					A	A							
+scaffold17	T	118335	A	A	T				T	T							
+scaffold17	t	118829	C	C		t			t	t							
+scaffold17	A	119760	G	G	A				A	A							
+scaffold17	C	120177		C	T				T	T							
+scaffold17	G	120262	A	A		G		G	G	G							
+scaffold17	C	121352	T	T		C		C	C	C							
+scaffold17	T	121516	C	C	T	T			T	T							
+scaffold17	T	121522	C	C	T	T			T	T							
+scaffold17	G	121529	T	T	G				G	G							
+scaffold17	C	121606	C	C					A	A							
+scaffold17	C	121999	C	C		T			T	T							
+scaffold17	a	122085	G	G					a	a							
+scaffold17	C	126417	A		C			C		C							
+scaffold17	C	129644	T		C			C		C							
+scaffold17	T	129719	T		G	G				G							
+scaffold17	A	130073	A		G		G			G							
+scaffold17	A	130851	G		A					A							
+scaffold17	C	131008	T		C	C				C							
+scaffold17	t	135900			A					t							
+scaffold18	C	1786	C	C	T				T	T							
+scaffold18	G	1898	G	G	T				T	T							
+scaffold18	a	2074	G	G	a		a		a	a							
+scaffold18	C	2264		C	T		T		T	T							
+scaffold18	t	2368		C	t				t	t							
+scaffold18	c	2430	T	T	c				c	c							
+scaffold18	G	2790	T	T	G	R	G		G	G							
+scaffold18	A	2893	G	G	A		A		A	A							
+scaffold18	A	2970	G	G	A				A	A							
+scaffold18	C	7001	T	T	C	C	C		C	C							
+scaffold18	G	7566	A	A	G		G		G	G							
+scaffold18	C	13300	C	C	T		T		T	T							
+scaffold18	G	14214	G	G	A		A		A	A							
+scaffold18	T	14745	C	C	T	T	T		T	T							
+scaffold18	A	19122	T	T	A		A		A	A							
+scaffold18	A	20771	T	T	A		A		A	A							
+scaffold18	G	21555	A	A	G		G		G	G							
+scaffold18	t	23372		t	A		A		A	A							
+scaffold18	a	23901		T	a		a		a	a							
+scaffold18	t	23916		A	t		t		t	t							
+scaffold18	C	28453		C	T		T		T	T							
+scaffold18	A	29116		T	A		A		A	A							
+scaffold18	G	29341		G	T		T		T	T							
+scaffold18	G	29350		G	A		A		A	A							
+scaffold18	C	30994		T			C		C	C							
+scaffold18	T	32953		T		R	C	C	C	C							
+scaffold18	G	33070		A		G	G		G	G							
+scaffold18	c	33333		c			T		T	T							
+scaffold18	A	34115		A	G		G		G	G							
+scaffold18	a	34488		T	a		a		a	a							
+scaffold18	G	48080		A			G		G	G							
+scaffold18	T	48702		C			T		T	T							
+scaffold18	G	50539		G			A		A	A							
+scaffold18	T	51463		C			T		T	T							
+scaffold18	T	52928		T			C		C	C							
+scaffold18	A	53973		A			G		G	G							
+scaffold18	T	54031		T			C		C	C							
+scaffold18	T	56130		C			T		T								
+scaffold18	T	56926		T			C		C	C							
+scaffold18	A	60038		A			C		C	C							
+scaffold18	C	60442		T			C		C	C							
+scaffold18	t	60935		A			t		t								
+scaffold18	G	62109		G			A		A								
+scaffold18	T	64163		A		T	T	T	T	T							
+scaffold18	C	64383		C			T		T								
+scaffold18	T	66932		T			C										
+scaffold18	C	67587		C			T	T									
+scaffold18	T	68091		C		T	T		T								
+scaffold18	T	68278		C			T		T								
+scaffold18	A	68485		G			A										
+scaffold18	t	81674		t	R		C		C								
+scaffold18	T	81712		T			C		C								
+scaffold18	a	81917		a			G		a								
+scaffold18	C	82018	T	T			C		C								
+scaffold18	G	82047	T	T			G	G	G								
+scaffold18	T	82157		T			C		C								
+scaffold18	A	82314		G			A		A								
+scaffold18	G	83801		A			G	G	G								
+scaffold18	G	84093		A			G	G	G								
+scaffold18	G	84411	A	A			G		G								
+scaffold18	A	85025		C			A		A								
+scaffold18	T	86102		T			C		C								
+scaffold18	G	90654		A			G		G	G							
+scaffold18	T	93210		T			A		A	A							
+scaffold18	C	93528		C			T		T	R							
+scaffold18	C	93791		T			C	C	C	C							
+scaffold18	T	94172		C			T	T	T	T							
+scaffold18	c	94665		T			c	c	c	c							
+scaffold18	a	94711		G			a		a								
+scaffold18	G	98752		A		G	G		G	G							
+scaffold18	C	100277		T		C	C		C	C							
+scaffold18	G	100327		A		G	G		G	G							
+scaffold18	C	105469		C		T	T		T	T							
+scaffold18	C	109906		T		C	C		C	C							
+scaffold18	A	109915		T		A	A		A	A							
+scaffold18	G	110257		G		T	T		T	T							
+scaffold18	A	110264		A		C	C		C	C							
+scaffold18	a	121826		T		a	a		a	a							
+scaffold20	G	1032		A	G			G	G	G							
+scaffold20	G	1175		A	G			G	G	G							
+scaffold20	T	35860	T	T					C	C							
+scaffold20	C	43149	C	C		G	G		G	G							
+scaffold20	t	43861	C	C						t							
+scaffold20	t	44254	t	t			A		A	A							
+scaffold20	g	45736	A	A					g	g							
+scaffold20	G	46544	A	A					G	G							
+scaffold20	A	84838		T	A	A	A	A		A							
+scaffold20	G	90623		A	G	G	G	G	G	G							
+scaffold20	t	131408	t		A		A		A	A							
+scaffold21	t	1009			A	R	R		A	A							
+scaffold21	A	1482					T		R	T							
+scaffold21	G	1941			A		A		A	A							
+scaffold21	T	3091			A		R	A	A	A							
+scaffold21	T	4352			C			C	C	C							
+scaffold21	A	4391			G			G	G	G							
+scaffold21	A	4436			T		R	T	T	T							
+scaffold21	G	5488			A		A	A	A	A							
+scaffold21	A	5653			G		G	G	G	G							
+scaffold21	C	5659			T		T	T	T	T							
+scaffold21	G	6700			T		T	T	T	T							
+scaffold21	a	30822	C	C	a	a		a		a							
+scaffold21	c	30925	A	A	c	c		c	c	c							
+scaffold21	T	31776	C	C	T			T	T	T							
+scaffold21	T	36001	C	C	T			T	T	T							
+scaffold21	C	36509	T	T	C			C	C	C							
+scaffold21	T	46318	T	T	C			C									
+scaffold21	A	47699	T	T	A		A	A	A	A							
+scaffold21	C	50182	T		C			C									
+scaffold21	C	71201		T	C	C	C		C								
+scaffold21	T	73552		C	T	T				T							
+scaffold21	C	73570		A	C	C				C							
+scaffold22	G	11238		G	A	A			A								
+scaffold22	a	21942		a	T	T			T								
+scaffold24	A	114088		G				A	A	A							
+scaffold24	T	115640		C	T			T	T	T							
+scaffold24	T	115737			R	R		G	G	G							
+scaffold25	T	2613		A			T	T		T							
+scaffold25	G	10316				A	A			A							
+scaffold25	a	11959			G	G	G			G							
+scaffold25	A	12189		G	A	A	A			A							
+scaffold25	G	12397				A	A			A							
+scaffold25	T	12530				C	C			C							
+scaffold25	A	13428		A		G	G			G							
+scaffold25	G	13458		G		A	A			A							
+scaffold25	G	16356				A	A			A							
+scaffold25	t	16688	t	C		t	t			t							
+scaffold25	T	17292				C	C			C							
+scaffold25	G	23748	G	G	A		A	A	A	A							
+scaffold25	G	23776	G	G	C		C	C	C	C							
+scaffold25	G	24711	G	G	A		A	A	A	A							
+scaffold25	T	25685	C	C	T		T	T	T	T							
+scaffold25	G	26198	A	A	G		G	G	G	G							
+scaffold25	C	26609	C	C	A		A	A	A	A							
+scaffold25	c	26952	c	c	T		T	T	T	T							
+scaffold25	C	30409	C	C	T		T		T	T							
+scaffold25	C	30416	C	C	T		T		T	T							
+scaffold25	A	31284	G	G	A		A		A	A							
+scaffold25	A	31800	G	G	A	A	A	A	A	A							
+scaffold25	a	32467	G	G	a	a	a		a	a							
+scaffold25	G	32945	G	G	A		A		A	A							
+scaffold25	A	33352	T	T	A	A	A	A	A	A							
+scaffold25	A	34618	A	A	G	G	G		G	G							
+scaffold25	T	34686	C	C	T		T		T	T							
+scaffold25	A	35302	T	T	A	A	A		A	A							
+scaffold25	A	36981	T	T	A	A	A		A	A							
+scaffold25	T	41128	C	C	T	R	T		T	T							
+scaffold25	A	41295	T	T	A		A		A	A							
+scaffold25	T	41307	T	T	A		A		A	A							
+scaffold25	c	41440	T	T	c		c		c	c							
+scaffold25	T	41783	C	C	T	R	T		T	T							
+scaffold25	A	42973	A	A	T	T			A	T							
+scaffold25	C	43279	A	A	C	C	C		C	C							
+scaffold25	G	43385	A	A	G	G	G		G	G							
+scaffold25	C	43511	T	T	C	C	C		C	C							
+scaffold25	A	43638	G	G	A	A	A		A	A							
+scaffold25	t	43770		A	t	t	t		t	t							
+scaffold25	A	44016	A	A	G	G	G		G	G							
+scaffold25	A	44196	A	A	G	G	G		G	G							
+scaffold25	C	44211	C	C	T	T	T		T	T							
+scaffold25	C	44229	C	C	A	A	A		A	A							
+scaffold25	C	44888	C	C	T	T	T		T	T							
+scaffold25	t	45688		A	t	t	t		t	t							
+scaffold25	T	45736	A	A	T	T	T		T	T							
+scaffold25	C	45757	A	A	C	C	C		C	C							
+scaffold25	G	45826	A	A	G	G	G		G	G							
+scaffold25	G	46078	T	T	G		G		G	G							
+scaffold25	A	46161	A	A			A			G							
+scaffold25	T	47549	T	T	C		C		C	C							
+scaffold25	T	47639	T	T	C	C	C		C	C							
+scaffold25	A	47717	G	G	A	A	A		A	A							
+scaffold25	A	48014	T	T	A	A	A		A	A							
+scaffold25	T	48072	C	C	T	T	T		T	T							
+scaffold25	C	48079	T	T	C	C	C		C	C							
+scaffold25	G	48142	A	A	G	G	G		G	G							
+scaffold25	C	48307	T	T	C	C	C		C	C							
+scaffold25	a	48517	a	a	T	T			T	T							
+scaffold25	A	49359	G	G	A	A	A	A	A	A							
+scaffold25	C	50044	A	A	C	C			C	C							
+scaffold25	A	50188	A	A	G	G	A		G	G							
+scaffold25	A	50542	G	G	A	A			A	A							
+scaffold25	t	50665	C	C	t		t		t	t							
+scaffold25	T	52021	T	T	A	A			R	A							
+scaffold25	a	52337	a	a	G	G			G	G							
+scaffold25	G	52499	G	G	A	A			A	A							
+scaffold25	A	52932	T	T	A	A			A	A							
+scaffold25	A	53315	A	A	G	G			G	G							
+scaffold25	t	53390	C	C	t	t			t	t							
+scaffold25	A	53617	G	G	A	A			A	A							
+scaffold25	C	53646	T	T	C	C			C	C							
+scaffold25	T	53760	T	T	C	C			C	C							
+scaffold25	A	53912	A	A	C	C			C	C							
+scaffold25	A	54651	A	A	G				G	G							
+scaffold25	G	54895	G	G	A	A				A							
+scaffold25	A	55341	A	A	G	G				G							
+scaffold25	A	55377	A	A	T	T				T							
+scaffold25	A	58880	A	A	T	T		T		T							
+scaffold25	T	59761	T	T	A	A		A	A	A							
+scaffold25	G	63592	A	A	G	G		G		G							
+scaffold25	a	64328		G		a				a							
+scaffold25	t	64961				C		C		C							
+scaffold25	G	66437	G			T		T		T							
+scaffold25	t	76186	t		A	A		A		A							
+scaffold25	C	95933	C	C	T	T		T		T							
+scaffold25	C	121441		C				T	T	T							
+scaffold25	C	123174		T					C	C							
+scaffold25	G	123758		G				A	A	A							
+scaffold25	G	124170	G	A				G	G	G							
+scaffold25	A	124462		A				G	G	G							
+scaffold25	A	124595		G					A	A							
+scaffold25	G	124646		A					G	G							
+scaffold25	c	128750		T					c	c							
+scaffold26	A	11354			G				G								
+scaffold26	A	16239			G				G								
+scaffold26	C	16327			T		T		T								
+scaffold26	t	16387			A		A		A								
+scaffold26	T	17437			A		A		A								
+scaffold26	A	19495			G		G		G								
+scaffold26	T	19849	C		T		T	T	T								
+scaffold26	T	20188	T		A		A	A	A								
+scaffold26	t	44815			A			A	A								
+scaffold26	G	49914	G	G		A	A	A	A	A							
+scaffold26	G	51962	A	A		G	G	G	G								
+scaffold26	G	53234	A		G	G		G	G								
+scaffold26	G	56569	T	T	G	G		G	G								
+scaffold26	A	57980		A		T		T	T								
+scaffold26	A	58225	A	A	T	T		T	T								
+scaffold26	T	59741	C	C	T	T			T								
+scaffold26	C	60096	T	T	C	C		C	C								
+scaffold26	A	60451	G	G	A	A			A								
+scaffold26	A	62028	G	G	A	A		A	A								
+scaffold26	A	62308		A	G	G		G	G								
+scaffold26	a	66043	a	a	T		R		T								
+scaffold26	A	67143	A	A	G	G		G	G								
+scaffold26	T	67698	T	T	C			C	C								
+scaffold26	T	67962	C	C	T	T			T								
+scaffold26	T	74552		T	C	C			C								
+scaffold26	T	74659		T	A	A		A	A								
+scaffold26	G	76885		A	G	G			G								
+scaffold26	g	78204		g	R	A			A								
+scaffold26	t	78805		t	A				A								
+scaffold26	T	79488		T	C	C			C								
+scaffold26	A	86140		G	A				A	A							
+scaffold26	A	89223			T			T	T	T							
+scaffold26	a	91320						T	T	T							
+scaffold26	t	91566						C	C	C							
+scaffold26	g	91638			A			A	A	A							
+scaffold26	T	93505	C					T	T	T							
+scaffold26	T	93512	C					T	T	T							
+scaffold26	G	94104						A	A	A							
+scaffold26	A	94117						G	G	G							
+scaffold26	G	133971	G	G	G	R	R	G	G	G							
+scaffold26	C	133981	C	C	C	R	R	C	C	C							
+scaffold26	C	133991	C	C	C	R	R	C	C	C							
+scaffold27	t	7515		t	G	G	G		G								
+scaffold27	T	7547		T	A	A	A		A								
+scaffold27	A	7577		A	T	T	T		T								
+scaffold27	T	7781	T	G	T	T	T	T	T								
+scaffold27	G	8587	G	T	G	G	G	G	G								
+scaffold27	T	9021	T	T	C	C	C	C	C								
+scaffold27	A	10396	G	G	A	A	A	A	A								
+scaffold27	A	11209		A	G		G	G	G								
+scaffold27	T	11623	C	C	T		T		T								
+scaffold27	G	11638	A	A	G		G		G								
+scaffold27	T	12603		C	T		T		T								
+scaffold27	C	12971		T	C		C		C	C							
+scaffold27	G	14418		A	G		G		G								
+scaffold27	T	16623		C	T		T	T	T								
+scaffold27	A	16990		A	G		G		G								
+scaffold27	G	19525	A	A	G		R	G	G								
+scaffold27	C	63794			T		T	T		T							
+scaffold27	A	63822			G		G	G		G							
+scaffold27	A	63838			T		T	T		T							
+scaffold27	T	63984		T	A		A	A		A							
+scaffold27	G	64026			A		A	A									
+scaffold27	A	64412			G		G	G		G							
+scaffold27	T	64513			C		C	C		C							
+scaffold27	A	64580			G		G	G		G							
+scaffold27	a	64603			C		C	C		C							
+scaffold27	G	68041		A		G		G		G							
+scaffold27	A	68623		A		T		T	T	T							
+scaffold27	G	68892				A		A	A	A							
+scaffold27	C	68915				T		T	T	T							
+scaffold27	C	68961		C				A	A	A							
+scaffold27	t	69012		C		t		t	t	t							
+scaffold27	a	69059		G		a		a									
+scaffold27	A	69105		G		A		A	A	A							
+scaffold27	C	73017		C		T		T	T	T							
+scaffold27	T	73094		C		T		T	T	T							
+scaffold27	T	73133		C				T	T	T							
+scaffold27	T	73252						C	C	C							
+scaffold27	C	73270						T	T	T							
+scaffold27	G	73340		G				T	T	T							
+scaffold27	A	73438		A		G		G	G	G							
+scaffold27	G	73481		G		A		A	A	A							
+scaffold27	G	73576		G		A		A	R	A							
+scaffold27	A	73777		T				A	A	A							
+scaffold27	G	74008		G				C	C	C							
+scaffold27	G	74455		T				G	G	G							
+scaffold27	A	74896		A				T	T	T							
+scaffold27	G	74944		G				T	T	T							
+scaffold27	c	75184		A				c									
+scaffold27	a	75201		C				a									
+scaffold27	G	75284						T		T							
+scaffold27	C	76302		T					C	C							
+scaffold27	A	77575		A				G	G	G							
+scaffold27	T	77610		T				A		A							
+scaffold27	A	77624		A				G		G							
+scaffold27	T	77745		C				T		T							
+scaffold27	T	78211		T				C									
+scaffold27	C	78861		T		C				C							
+scaffold27	T	78924		A				T	T	T							
+scaffold27	A	79092		A				G	G	G							
+scaffold27	G	79161		A				G	G	G							
+scaffold27	G	80416		A	G	G		G		G							
+scaffold27	C	80443		T	C			C		C							
+scaffold27	C	82292		C	T				T	T							
+scaffold27	T	82406		C	T				T	T							
+scaffold27	T	82412		A	T				T	T							
+scaffold27	C	82512		T	C				C	C							
+scaffold27	A	82894		C					A	A							
+scaffold27	T	83061		T	G				G	G							
+scaffold27	G	83084		G	A			R		A							
+scaffold27	C	83392		T	C				C	C							
+scaffold27	G	83461		A	G				G	G							
+scaffold27	G	85084		A	G			G	G	G							
+scaffold27	C	85181		T	C	C		C	C	C							
+scaffold27	T	85300		T	C	C				C							
+scaffold27	A	85580		G	A				A	A							
+scaffold27	C	85886		T	C			C	C	C							
+scaffold27	T	85957		A	T			T	T	T							
+scaffold27	C	86026		T	C				C	C							
+scaffold27	C	86154		T	C	C			C	C							
+scaffold27	G	86541		A	G	G			G	G							
+scaffold27	C	86548		T	C	C			C	C							
+scaffold27	G	86695		G	A	A			A	A							
+scaffold27	C	86778		C	T	T			T	T							
+scaffold27	A	86879		A	G					G							
+scaffold27	C	87766			T				T	T							
+scaffold27	G	87842				A				A							
+scaffold27	G	88078		G	T				T	T							
+scaffold27	T	88228		A	T				T	T							
+scaffold27	G	88276		A	G	G			G	G							
+scaffold27	G	88321		C	G	G			G	G							
+scaffold27	A	88357		G	A	A			A	A							
+scaffold27	A	88596		A	G				G	G							
+scaffold27	C	88655		C	T				T	T							
+scaffold27	C	88719			T				T	T							
+scaffold27	C	88788			T					T							
+scaffold27	T	88793			C					C							
+scaffold27	t	88850			A				A	A							
+scaffold27	T	88907			C	C			C	C							
+scaffold27	T	88972			C	C			C	C							
+scaffold27	C	90346			T	T			T	T							
+scaffold27	A	90364			G	G			G	G							
+scaffold27	T	90424			C	C			C	C							
+scaffold27	T	90443			G	G			G	G							
+scaffold27	T	90494	T		C				C	C							
+scaffold27	C	90532	C	C	A	A			A	A							
+scaffold27	T	90820		C	T	T			T	T							
+scaffold27	A	90865		T	A	A			A	A							
+scaffold27	G	90880		T	G	G			G	G							
+scaffold27	T	91331		G	T				T	T							
+scaffold27	C	91409	C		T	T				T							
+scaffold27	G	93324		G	A	A		A	A	A							
+scaffold27	G	93402		A	G	G			G	G							
+scaffold27	T	93492		C	T	T			T	T							
+scaffold27	a	93724			T	T			T	T							
+scaffold27	T	95185		C	T	T			T	T							
+scaffold27	t	95468			C	C		C	C	C							
+scaffold27	A	95741		G	A	A		A	A	A							
+scaffold27	T	95887		C	T	T			T	T							
+scaffold27	T	95892		G	T	T		T	T	T							
+scaffold27	C	96866			T	T		T	T	T							
+scaffold27	C	97082			A	A			A	A							
+scaffold27	A	97247		C	A	A			A	A							
+scaffold27	T	97501			A	A			A	A							
+scaffold27	C	97580		A	C	C			C	C							
+scaffold27	T	97618		G	T	T			T	T							
+scaffold27	G	97815			A	A		A		A							
+scaffold27	G	97824			A	A		A		A							
+scaffold27	G	98424		A	G	G			G	G							
+scaffold27	G	99405			A	A		A		A							
+scaffold27	C	99435			T	T		T		T							
+scaffold27	T	99454			A	A		A		A							
+scaffold27	G	100347			T	T		T		T							
+scaffold27	G	100381			A	A		A		A							
+scaffold27	G	100638			A	A		A	A	A							
+scaffold27	C	102306			A	A			A	A							
+scaffold27	C	102329			T	T			T	T							
+scaffold27	A	102355			C	C			C	C							
+scaffold27	A	103606			G	G		R		G							
+scaffold27	T	114161			A	A		A	A	A							
+scaffold27	T	114258			G	G		G	G	G							
+scaffold27	T	116100			C	C		C	C	C							
+scaffold27	t	117948			C	C		C	C	C							
+scaffold27	T	135141			C	R			C								
+scaffold27	A	143199			G					A							
+scaffold27	g	160942		A	A		g										
+scaffold27	T	161961					A	R	A								
+scaffold29	g	12430		A		g			g								
+scaffold29	T	26908		T		C	C	C	C								
+scaffold29	G	31535		A		G	G	G	G	G							
+scaffold29	A	78937	A	A			G	G	G	G							
+scaffold29	c	105060						T		T							
+scaffold29	t	105105					A	A	A	A							
+scaffold29	C	105308		T			C	C	C	C							
+scaffold29	A	105784		G			A	A	A	A							
+scaffold29	A	106269		A			T	T	T	T							
+scaffold29	G	109083		A			G	G	G	G							
+scaffold29	C	109112		T			C	C		C							
+scaffold29	C	109122		T			C	C		C							
+scaffold29	A	109907						G	G	G							
+scaffold29	A	109917						T	T	T							
+scaffold29	G	110028		G				A	A	A							
+scaffold29	T	110260						A	A	A							
+scaffold29	A	110788		A				C	C	C							
+scaffold29	A	110801		A				G	G	G							
+scaffold29	C	113073		C				T	T	T							
+scaffold29	A	113110		A				G	G	G							
+scaffold29	A	116781		A				T	T	T							
+scaffold29	G	117981		T				G	G	G							
+scaffold29	C	118868		C				T	T	T							
+scaffold29	a	119398						T		T							
+scaffold29	C	119637		C				T		T							
+scaffold29	C	119674		C				T		T							
+scaffold29	T	134318	T	T			A	A		A							
+scaffold29	G	134611		T			G	G		G							
+scaffold29	C	135127	T				C	C		C							
+scaffold29	C	135152	T				C	C		C							
+scaffold29	T	135191	C				T	T		T							
+scaffold29	G	141999					A			A							
+scaffold29	T	142005					A			A							
+scaffold29	C	142131	T				C			C							
+scaffold29	T	143716	C	C			T			T							
+scaffold29	G	143905	G	G			T	T		T							
+scaffold29	T	144579	T				G			G							
+scaffold29	C	145136	C				A			A							
+scaffold29	G	145178	G				A			A							
+scaffold29	t	148056					C	C		C							
+scaffold29	t	148302	A				t	t		t							
+scaffold29	a	149969	G	G			a	a	a	a							
+scaffold29	C	150350	A	A			C	C	C	C							
+scaffold29	C	154531	G				C	C		C							
+scaffold29	a	154548	T				a	a		a							
+scaffold29	G	154720	A				G	G	G	G							
+scaffold29	G	162703	G			A	A	A	A	A							
+scaffold30	c	4058		c	T	T	T	T		T							
+scaffold30	A	88402				T	T			T							
+scaffold30	C	90376				R	T		T	T							
+scaffold30	A	94258					G			G							
+scaffold30	G	94380					C			C							
+scaffold30	A	97350	G				A		A	A							
+scaffold30	C	98001	C				T		T	T							
+scaffold30	T	98052	T				C		C	C							
+scaffold30	A	98142	T				A		A	A							
+scaffold30	A	98236	A				G		G	G							
+scaffold30	C	98735					T			T							
+scaffold30	A	100794			G	G	G		G	G							
+scaffold30	T	104849			C	C	C	C	C	C							
+scaffold30	G	109331			T		T			T							
+scaffold30	a	114590			T		T		R	T							
+scaffold31	C	66706	C	A	C		C	C	C								
+scaffold31	T	66731	T	C	T		T	T	T	T							
+scaffold31	A	100775		A	G	G	G		G	G							
+scaffold31	G	103347			A	A	A		A	A							
+scaffold32	c	8685	c		T			T	T	T							
+scaffold32	A	11877	T	T	A			A	A	A							
+scaffold32	T	14300	C		T	T		T	T	T							
+scaffold32	G	30615	A	A	G					G							
+scaffold32	g	39392	g	g				R	A	A							
+scaffold32	A	40852	T	T					A	A							
+scaffold32	A	41295	G	G	A				A	A							
+scaffold32	T	41365	T	T	C					C							
+scaffold32	C	41374	C	C	T					T							
+scaffold32	C	41623	T	T	C					C							
+scaffold32	T	41712	C	C	T				T	T							
+scaffold32	G	41809	G	G	A				A	A							
+scaffold32	C	41885	C	C	T				T	T							
+scaffold32	G	41914	G	G	A				A	A							
+scaffold32	A	46029	G	G	A				A	A							
+scaffold32	A	46042	T	T	A				A	A							
+scaffold32	G	46304	G	G					A	A							
+scaffold32	G	46328	G	G					A	A							
+scaffold32	G	46534	G	G	A				A	A							
+scaffold32	C	46613	C	C	T				T	T							
+scaffold32	T	46913	A	A					T	T							
+scaffold32	G	47044	G	G	A				A	A							
+scaffold32	A	47573		G					A								
+scaffold32	G	47641	A	A					G	G							
+scaffold32	G	48092	A	A					G	G							
+scaffold32	G	48174		G					A	A							
+scaffold32	c	49133		T													
+scaffold32	g	49141		A													
+scaffold32	G	49180		A													
+scaffold32	t	49438		t						C							
+scaffold32	A	49454		A						G							
+scaffold32	T	49731	G	G					T	T							
+scaffold32	C	49755	T	T					C	C							
+scaffold32	T	49801	A	A					T	T							
+scaffold32	G	50254	A	A	G					G							
+scaffold32	C	50388	C	C	A				C								
+scaffold32	A	50413	A	A	T												
+scaffold32	C	50504	C	C	C				T								
+scaffold32	T	50655		C													
+scaffold32	t	53341		t					A	t							
+scaffold32	A	62935		A						G							
+scaffold32	a	65922		a			T			T							
+scaffold33	A	7825			G	G	G		G	G							
+scaffold33	C	11702	C		T		T	T	T	T							
+scaffold33	A	19579	A		G	G	G	G	G	G							
+scaffold33	c	20366			A	A	A	A	A	A							
+scaffold33	G	40682	G		A	A	A		A	A							
+scaffold33	T	56215	C		T	T	T	T	T	T							
+scaffold33	G	56379	T		G		G		G	G							
+scaffold33	G	76664			T		T	T	T	T							
+scaffold34	a	68563	a	T	a	a	a	a									
+scaffold34	T	71037		C	T	T	T	T									
+scaffold34	C	76235	C	C	T		T	T		T							
+scaffold34	t	76278	t	t	A		A	A	A								
+scaffold34	G	80350		G	T		T	T	T	T							
+scaffold34	C	81167	C	C	T		T	T		T							
+scaffold34	c	81481	c	c	A		A	A	A	A							
+scaffold34	T	84208		A	T		T	T	T								
+scaffold34	T	87888		C	T	T	T	T	T	T							
+scaffold34	T	88397		A	T		T	T	T	T							
+scaffold34	T	88983		A	T		T	T		T							
+scaffold34	T	89727		C	T	T	T	T	T	T							
+scaffold34	T	89858		C	T		T	T		T							
+scaffold34	T	92924		T	C		C	C	C	C							
+scaffold34	G	100881	G	A	G		G	G	G	G							
+scaffold34	G	101960		A	G		G	G		G							
+scaffold34	a	102063		a	G		G			G							
+scaffold34	A	103745		G	A		A	A	A	A							
+scaffold34	G	103895		A	G		G	G		G							
+scaffold34	G	104290	G	A	G		G	G	G	G							
+scaffold34	t	104315	C	C	t		t	t	t	t							
+scaffold34	C	104411		T	C		C	C		C							
+scaffold34	A	109764		C	A	A	A	A	A	A							
+scaffold34	C	111919		C	T	T	T	T	T	T							
+scaffold34	A	113678		G	A		A		A	A							
+scaffold34	C	113717		T	C	C	C	C	C	C							
+scaffold34	G	114193		A	G	G	G		G	G							
+scaffold34	A	118660		G	A			A	A	A							
+scaffold34	a	119761	a	a	G	G	G	G	G	G							
+scaffold34	C	120966		T	C	C		C	C	C							
+scaffold34	t	121124		A	t	t		t	t	t							
+scaffold34	T	124533		T	C	C		C	C	C							
+scaffold35	T	25749		A	T		T		T								
+scaffold35	C	41542		C	T		T			T							
+scaffold35	t	45242		t	R		t		t								
+scaffold35	T	84630		T	A	A		A		A							
+scaffold36	A	9054		G	A					A							
+scaffold36	T	12780		C	T		T			T							
+scaffold36	T	13693		C	T	T	T			T							
+scaffold36	G	14849		A	G					G							
+scaffold36	T	19934		T	C	C				C							
+scaffold36	T	45612		T	C	C	C										
+scaffold36	G	47633		G	T	T	T										
+scaffold36	G	48166	A	A	G	G	G		G								
+scaffold36	C	67308		T	C		C		C	C							
+scaffold36	C	67873		A	C		C		C	C							
+scaffold36	T	68621		G	T		T		T	T							
+scaffold36	T	68824		T	A		A		A								
+scaffold36	T	68839		T	C		C		C								
+scaffold36	T	69518		T	A		A		A								
+scaffold36	A	69823		A	T		T										
+scaffold36	T	69833		T	C		C										
+scaffold36	A	70461		A	C		C		C	C							
+scaffold36	a	76550			T		T		T								
+scaffold36	C	99735			T		T										
+scaffold36	a	99947			C		a		a								
+scaffold36	t	109497		A	t		t										
+scaffold37	T	39983	T	T	C	C		C	C	C							
+scaffold37	a	67599	T	T	a			a	a								
+scaffold37	C	70393	A	A	C			C	C								
+scaffold37	a	70537	a	a	T			T	T								
+scaffold37	C	72371	T	T	C			C	C								
+scaffold37	c	72426	T	T	c			c	c								
+scaffold37	G	72455	A	A	G			G	G								
+scaffold37	A	73070	T	T	A	A		A	A								
+scaffold37	a	73473	T	T	a	a		a	a								
+scaffold37	T	74301	C	C	T	T		T	T								
+scaffold37	G	74311	A	A	G	G		G	G								
+scaffold37	A	75604	G	G	A	A			A								
+scaffold37	A	75640	T	T	A	A		A	A								
+scaffold37	G	75647	A	A	G	G		G	G								
+scaffold37	G	75717	A	A	G	G		G	G								
+scaffold37	A	75739	G	G	A	A		A	A								
+scaffold37	C	76633	C	C	T	T			T	T							
+scaffold37	G	76670	G	G	T	T		T	T	T							
+scaffold37	C	76935	T	T	C	C		C	C								
+scaffold37	T	77038	A	A					T								
+scaffold37	T	77059	C	C	T				T								
+scaffold37	G	77139	A	A	G	G			G								
+scaffold37	C	77204	T	T	C	C			C								
+scaffold37	C	77242	T	T	C	C			C								
+scaffold37	a	79121	a	a	a				R	a							
+scaffold37	a	79504	a						T								
+scaffold37	a	80675	a	a	C	C			C								
+scaffold37	G	95678	G	G	A	A			A								
+scaffold37	t	97295	t	t	C		R		C								
+scaffold37	T	100801	T	T	C												
+scaffold37	T	100812	T	T	C												
+scaffold37	T	100823	T	T	C												
+scaffold37	C	100846	C	C	T				T								
+scaffold37	T	100866	T	T	C				C								
+scaffold37	A	100882	A	A	G				G								
+scaffold37	T	100904	T	T	C				C								
+scaffold37	T	101127	T	T	C				C								
+scaffold37	t	101267	A														
+scaffold37	a	101293	G														
+scaffold37	G	101362	G		A												
+scaffold37	C	101371	C		T												
+scaffold37	t	101393	t		C				C								
+scaffold37	A	101436	A		A				G								
+scaffold37	G	102659	A	A	G				G								
+scaffold37	C	102745	T	T	C		R		C	C							
+scaffold37	G	102869	A	A	G					G							
+scaffold37	G	102983	A	A	G		G			G							
+scaffold37	G	102990	A	A	G					G							
+scaffold37	A	103130	G	A	A					A							
+scaffold37	A	103169	G	A	A				A	A							
+scaffold37	G	103184	A	G	G				G	G							
+scaffold37	C	103218	T	C	C				C	C							
+scaffold37	A	103439		A	G					G							
+scaffold38	t	104177				A		A		R							
+scaffold38	G	110770				A		A		A							
+scaffold38	a	117330				G				G							
+scaffold38	A	117511				G				G							
+scaffold38	C	118583	C			A											
+scaffold38	A	121596	A			G		G	G	G							
+scaffold38	G	121616	G			A		A	A	A							
+scaffold38	C	122845	C			T		T	T	T							
+scaffold38	C	122851	C			A		A	A	A							
+scaffold38	A	122935	C			A		A		A							
+scaffold38	A	123049	A			G				G							
+scaffold38	G	123065	G			A				A							
+scaffold38	G	123090	G			A		A		A							
+scaffold38	C	123210	C			T		T		T							
+scaffold38	G	123235	G			T		T		T							
+scaffold38	G	123406	G			A		A		A							
+scaffold38	G	123445	G			A		A		A							
+scaffold38	T	123521	C			T		T		T							
+scaffold38	T	123536	C			T		T		T							
+scaffold38	T	123673	C			T		T	T	T							
+scaffold38	G	123835	G			A		A		A							
+scaffold38	C	123845	C			T		T		T							
+scaffold38	G	123932	G			A		A		A							
+scaffold38	A	123937				G		G		G							
+scaffold38	T	123966	T			C		C		C							
+scaffold38	A	124004	A			C		C		C							
+scaffold38	A	124030	A			C		C		C							
+scaffold38	C	124051	C			T		T		T							
+scaffold38	T	124085	T			C		C		C							
+scaffold38	C	124110	C			T		T		T							
+scaffold38	T	124136	T			C		C		C							
+scaffold38	A	124370	G			A		A		A							
+scaffold38	G	124439	G			A		A		A							
+scaffold38	A	124539				G		G		G							
+scaffold38	C	124827	C			T		T		T							
+scaffold38	A	125016	C			A		A		A							
+scaffold38	G	125285	A			G		G	G	G							
+scaffold38	T	125847				A		A		A							
+scaffold38	A	128754	A			G		G		G							
+scaffold38	G	128884	T			G		G		G							
+scaffold38	A	130983				G		G		G							
+scaffold38	A	131238	T			A		A	A	A							
+scaffold38	C	131517	A			C		C		C							
+scaffold38	A	131870	G			A		A	A	A							
+scaffold39	t	11147		t				C		C							
+scaffold39	A	19807		G				A		A							
+scaffold39	T	25939		C				T		T							
+scaffold39	T	29067	T	T			A	A		A							
+scaffold39	T	30390	A	A			T	T		T							
+scaffold39	G	34099	G	G			A	A		A							
+scaffold39	C	34115	C	C			T	T		T							
+scaffold39	A	44067	A	A	C			C		C							
+scaffold39	G	44075	G	G	A			A		A							
+scaffold39	A	44111	A	A			G	G		G							
+scaffold39	G	46051	G	G	A			A		A							
+scaffold39	A	46122	T	T	A					A							
+scaffold39	T	46494	C	C	T			T	T	T							
+scaffold39	T	46648	T	T	C			C	C	C							
+scaffold39	T	46661	T	T	C			C	R	C							
+scaffold39	A	46815	T	T	A			A		A							
+scaffold39	C	47232	C	C	T		T	T	T	T							
+scaffold39	t	47568	t	t						A							
+scaffold39	A	48409	T	T	A		A	A	A	A							
+scaffold39	T	48673	T	T	C		C	C		C							
+scaffold39	T	49945	C	C	T		T	T	T	T							
+scaffold39	A	50724	C	C	A		A	A		A							
+scaffold39	A	51388	T	T	A		A	A		A							
+scaffold39	A	51407	T	T	A		A	A		A							
+scaffold39	t	53373	t	t	A		A	A	R	A							
+scaffold39	g	53817	A	A	g		g	g		g							
+scaffold39	T	53892	T	T	C			C	C	C							
+scaffold39	a	54071	T	T	a	a	a	a		a							
+scaffold39	C	54282	C	C	A			A	A	A							
+scaffold39	C	54344	C	C	T	T		T		T							
+scaffold39	A	55853	A	A	G	G	G	G		G							
+scaffold39	T	61594	C	C	T	T	T	T		T							
+scaffold39	G	61932	A	A	G	G	G	G		G							
+scaffold39	G	62282	A	A	G	G		G		G							
+scaffold39	a	62422	a	a	T	T		T		T							
+scaffold39	A	62569	T	T	A	A	A	A		A							
+scaffold39	C	62822	T	T	C	C	C	C		C							
+scaffold39	G	63162	A	A	G	G	G	G		G							
+scaffold39	A	63326	A	A	G	G	G	G		G							
+scaffold39	A	63719	C	C	A	A	A	A		A							
+scaffold39	t	77794	A	A	t	t	t	t		t							
+scaffold39	a	96104		a	T	T	T		T	T							
+scaffold39	C	96244		G	C	C	C		C	C							
+scaffold39	A	96991		A	T	T	T	T	T	T							
+scaffold39	A	97078		A	G	G	G		G	G							
+scaffold39	C	97177		C		G	G		G	G							
+scaffold39	C	97683		T	C	C	C		R	C							
+scaffold39	T	98336		A	T	T	T		T	T							
+scaffold39	C	99342		T	C	C	C		C	C							
+scaffold39	T	100694		T	T	C	C		C	C							
+scaffold41	T	4114	C	T	T	T	T		T	T							
+scaffold41	G	6411	T		G		G			G							
+scaffold41	G	8574	G				A		A	A							
+scaffold41	G	47307		G	T		T	T	T	T							
+scaffold41	C	47414		T	C	C	C	C	C	C							
+scaffold41	C	47740		C	T	T	T	T	T	T							
+scaffold41	c	47936	A	A		c	c	c	c	c							
+scaffold41	A	48040		G		A	A	A	A	A							
+scaffold41	T	49888		C	T	T	T	T	T	T							
+scaffold41	A	50607		A		T	T	T	T	T							
+scaffold41	t	52005	A	A	t	t	t	t	t	t							
+scaffold41	C	53264	C	C	T	T	T	T	T	T							
+scaffold41	T	53289	T	T		C	C	C	C	C							
+scaffold41	C	53370	T	T		C	C	C	C	C							
+scaffold41	G	53547		T		G	G	G	G	G							
+scaffold41	A	54309		G	A	A	A	A	A	A							
+scaffold41	C	54361		A	C	C	C	C	C	C							
+scaffold41	A	54415	C	C	A	A	A	A	A	A							
+scaffold41	T	54425	T	G	T	T	T	T	T	T							
+scaffold41	G	54436	T	T	G	G	G	G	G	G							
+scaffold41	a	54491		T	a	a	a	a	a	a							
+scaffold41	A	54675		A		T	T	T	T	T							
+scaffold41	T	54684		T		C	C	C	C	C							
+scaffold41	A	54719		A	G	G	G	G	G	G							
+scaffold41	G	54733		G	A	A	A	A	A	A							
+scaffold41	T	54744		T	C	C	C	C	C	C							
+scaffold41	A	54846	A	A	T	T	T	T	T	T							
+scaffold41	C	54936		T		C	C	C	C	C							
+scaffold41	G	54976		A		G	G	G	G	G							
+scaffold41	G	54981		A		G	G	G	G	G							
+scaffold41	C	55165		A	C	C	C	C	C	C							
+scaffold41	G	55172		T	G	G	G	G	G	G							
+scaffold41	C	55191		T	C	C	C	C	C	C							
+scaffold41	G	55582		T	G	G	G	G	G	G							
+scaffold41	C	56129	T	T	C	C	C	C	C	C							
+scaffold41	C	56155	A	A	C	C	C	C	C	C							
+scaffold41	T	120956			C				C	C							
+scaffold41	T	142380			A	A				A							
+scaffold41	g	174115	A		g			g		g							
+scaffold41	G	174404	G		T	T		T		T							
+scaffold42	t	85077		C	t					t							
+scaffold42	C	85598		T	C					C							
+scaffold42	T	85690		C	T					T							
+scaffold42	G	85761		A	G					G							
+scaffold42	C	85768		T	C					C							
+scaffold42	T	85923		C	T					T							
+scaffold42	a	85957		T	a				a	a							
+scaffold42	G	97015		G	A					A							
+scaffold42	T	108704		T	C	C		C	C								
+scaffold42	A	109667		G	A	A		A	A								
+scaffold44	G	2790							A	A							
+scaffold44	T	8251	T							A							
+scaffold44	t	14195				A											
+scaffold44	G	17935				T				T							
+scaffold44	T	18538								A							
+scaffold44	t	21858								C							
+scaffold44	C	22043	T							C							
+scaffold44	G	22749								A							
+scaffold44	g	28662				A		A		A							
+scaffold44	t	28696				C		C		C							
+scaffold44	t	30335								C							
+scaffold44	A	31793								T							
+scaffold44	C	31798					C			T							
+scaffold44	a	32357	C							a							
+scaffold44	a	32374	G							a							
+scaffold46	T	3398			C		C	C		C							
+scaffold46	G	17294			G	R		G	R	G							
+scaffold46	C	17312			C	R		C	R	C							
+scaffold46	C	17363			C	C		C	R	C							
+scaffold46	G	17787			A			A		A							
+scaffold46	T	18122			C	C		C		C							
+scaffold46	C	18244			T	R		T		T							
+scaffold46	A	24745			G		G	G	G	G							
+scaffold46	G	24931			A		A	A	A	A							
+scaffold46	T	53386			A			A	A	A							
+scaffold46	c	87652			A			A	A	A							
+scaffold46	A	89117			T	T		T	T	T							
+scaffold46	C	131362		T	C		C	C	C								
+scaffold46	T	131599		C			T	T	T	T							
+scaffold46	G	132258		T			G	G	G	G							
+scaffold46	T	132495		C			T	T	T	T							
+scaffold46	T	132508		C			T	T	T								
+scaffold46	A	135129		A			T	T	T								
+scaffold46	G	161805	A		G		G		G								
+scaffold46	T	161828	C		T		T		T								
+scaffold46	G	163831	G		A		A		A								
+scaffold46	C	164562	C		T		T		T								
+scaffold46	T	164811	C		T		T		T								
+scaffold46	T	165049	G		T		T		T								
+scaffold46	A	165143	A		T		T		T								
+scaffold46	A	165149	A		T	T	T		T								
+scaffold46	T	165218	T		C		C		C								
+scaffold46	T	165241	T		A		A		A								
+scaffold46	G	165528	C		G	G		G	G								
+scaffold46	C	165588	T		C	C	C	C	C								
+scaffold46	C	165620	T		C	C	C	C	C								
+scaffold46	T	165671	T		C	C	C	R	C								
+scaffold46	G	165705	G		A	A	A		A								
+scaffold46	A	165737	A		G	G	G		G								
+scaffold46	C	175831			T	T	T	T	T								
+scaffold46	G	176874	T		G	G		G	G								
+scaffold46	G	177294	T		G	G	G	G	G								
+scaffold46	t	177896				A		A	A								
+scaffold46	T	178689	C		T	T	T	T	T								
+scaffold46	a	181864		a					T								
+scaffold46	T	181966		C	T				T								
+scaffold46	a	182137		T	a		a	a	a	a							
+scaffold47	C	13376			T		T										
+scaffold47	A	13778			G	G	G										
+scaffold47	A	14449			G		G										
+scaffold47	G	25724			A	A	A										
+scaffold47	A	28774			G		G		G								
+scaffold47	T	110194	T		G			G	G	G							
+scaffold47	C	110492	C		T			T	T	T							
+scaffold47	c	110848						T	T	T							
+scaffold47	C	111730	C					T	T	T							
+scaffold47	A	112202			G			G	G	G							
+scaffold47	T	121082				A		A		A							
+scaffold47	C	122411				T	R	T		T							
+scaffold47	t	122472				C		C		C							
+scaffold47	G	127972				A		A	A	A							
+scaffold47	c	142622			T	T	T	T		T							
+scaffold49	T	50193		C	T	T			T	T							
+scaffold49	T	91525		A	T	T	T										
+scaffold49	C	91619		T	C	C	C		C								
+scaffold49	A	91715		T	A	A	A		A								
+scaffold49	T	93938			C	C	C		C	C							
+scaffold49	A	96978	G		A	A	A		A	A							
+scaffold49	C	97870	T		C	C	C		C	C							
+scaffold49	G	98939	A		G	G	G		G	G							
+scaffold49	C	100543	C		T	T	T		T	T							
+scaffold49	C	104707	C		T	T	T		T	T							
+scaffold50	A	90602	G			A		A		A							
+scaffold50	T	92785	C			C				T							
+scaffold50	t	94833	t							A							
+scaffold50	C	95997				T	T	T		T							
+scaffold50	C	96324				T				T							
+scaffold50	T	105028				A	T		T	A							
+scaffold50	C	105217				R	T		T	T							
+scaffold50	a	113427				T	T		T	T							
+scaffold50	A	113683				C	C		C	C							
+scaffold50	A	114201	A			T	A		A	T							
+scaffold50	G	115179	G			T	T		T	T							
+scaffold50	A	115207				G	R		G	G							
+scaffold50	t	116131								A							
+scaffold50	a	116267				G			G	G							
+scaffold50	A	116860	G	A		A	A		A	A							
+scaffold50	G	118853		G		A	A		A	A							
+scaffold50	a	119412		T		a	a			a							
+scaffold50	C	119428		T		C	C			C							
+scaffold50	C	119538		T		C	C		C	C							
+scaffold50	C	119642	C	C		A	A		A	A							
+scaffold50	A	120038		G			A		A	A							
+scaffold50	T	120214		T		C	C		C	C							
+scaffold50	C	120424					T		T	T							
+scaffold50	C	120802		T		C	C		C	C							
+scaffold50	A	120983		G		A	A	A	A	A							
+scaffold50	T	120991		C		T	T	T	T	T							
+scaffold50	G	121038		A			G	G	G	G							
+scaffold50	G	121054		C			G	G	G	G							
+scaffold50	G	121073		T			G	G	G	G							
+scaffold50	T	121132		C			T		T	T							
+scaffold50	T	121243		A		T	T		T	T							
+scaffold50	T	121520	T	T			A		A	A							
+scaffold50	A	121526	A	A			G		G	G							
+scaffold50	A	121806		G		A	A		A	A							
+scaffold50	A	121872		A			G		G	G							
+scaffold50	c	122269		T		c	c		c	c							
+scaffold51	A	23226	A		G			G		G							
+scaffold51	G	39265	G	G	A			A	A	A							
+scaffold51	T	43807	T	T	C			C		C							
+scaffold51	a	49484		T	a	a	a		a	a							
+scaffold51	g	49528		T	g	g	g		g	g							
+scaffold51	A	50461		A	T	T	T		T	T							
+scaffold51	T	51760		A	T	T	T		T	T							
+scaffold51	A	52917		C	A	A	A		A	A							
+scaffold51	G	95904		G		A			A	A							
+scaffold51	a	173344	T	T	a	a	a	a	a	a							
+scaffold51	A	182538	G	G	A	A	A	A	A	A							
+scaffold51	C	183952	A	A	C	C	C	C	C	C							
+scaffold51	G	184944	A	A	G	G	G		G	G							
+scaffold51	G	185091	G	G	T	T	T	T	T	T							
+scaffold51	A	186470	G	G	A	A	A		A	A							
+scaffold51	C	186593	C	C	T	T	T		T	T							
+scaffold51	A	186761	A	A	G	G	G	G	G	G							
+scaffold51	A	191450	A	A	T	T	T		T	T							
+scaffold51	T	191886	T	T	C	C	C		C	C							
+scaffold51	T	192007	C		T	T	T		T	T							
+scaffold52	T	3500		C		T		T	T	T							
+scaffold52	C	5633		C		T				T							
+scaffold52	C	6916		T		C		C	C	C							
+scaffold52	T	7297		T		C		C	C	C							
+scaffold52	c	7387		c		A			A	A							
+scaffold52	T	7432		T		G		G	G	G							
+scaffold52	G	9959		G	R	A			A	A							
+scaffold52	a	10348		a		G		a	a	G							
+scaffold52	G	10460		A		G		G		G							
+scaffold52	C	10551		T		C				C							
+scaffold52	C	10567		A	C	C				C							
+scaffold52	A	10647		A		G			G	G							
+scaffold52	A	13589		A		T		T		T							
+scaffold52	C	33686		C		T				T							
+scaffold52	C	37852		T		C				C							
+scaffold52	G	38263		A		G				G							
+scaffold52	G	48215		G		C				C							
+scaffold52	A	48801		G	A	A			A	A							
+scaffold52	A	49906	C	C	A	A				A							
+scaffold52	T	49914	C	C	T	T				T							
+scaffold52	A	63662			G	G	G			G							
+scaffold52	G	80491	T		G	G	G		G	G							
+scaffold54	t	6871		C	C	t	t	C									
+scaffold54	T	10477			C	C	C	C									
+scaffold54	C	10500			T	T	T	T									
+scaffold54	T	10547			A	A	A										
+scaffold54	T	22195	T	T		C	C										
+scaffold54	a	32457		a		G	G			G							
+scaffold54	A	33588		A		T				T							
+scaffold54	C	33650		C		T				T							
+scaffold54	T	33852		C		T				T							
+scaffold54	C	35404		T		C	C			C							
+scaffold54	t	37120		A		t				t							
+scaffold54	t	37181		A		t				t							
+scaffold54	g	37268		g		T				T							
+scaffold54	g	37299		g		A				A							
+scaffold54	a	37494		G		a				a							
+scaffold54	C	39142		C		T				T							
+scaffold54	A	39312		T						A							
+scaffold54	t	39411		A						t							
+scaffold54	T	40183		A		T				T							
+scaffold54	A	40317		A		G				G							
+scaffold54	a	40452		C						a							
+scaffold54	A	40701		G		A				A							
+scaffold54	T	40821		T		A				A							
+scaffold54	G	40876		A		G				G							
+scaffold54	A	40908		G		A				A							
+scaffold54	C	40984		T		C				C							
+scaffold54	T	41007		G		T				T							
+scaffold54	T	41636		A		T				T							
+scaffold54	G	41694		A	G	G				G							
+scaffold54	A	42906		A						G							
+scaffold54	T	43361		T						C							
+scaffold54	T	44157		T		R	A			A							
+scaffold54	g	46187		g	A		A			A							
+scaffold54	C	47186		C			A			A							
+scaffold54	a	47410		a		G	R			G							
+scaffold54	A	47510		A		G				G							
+scaffold54	T	49807		C			T			T							
+scaffold54	G	49818		A			G			G							
+scaffold54	A	49826		G			A			A							
+scaffold54	a	50297		a			G	R		G							
+scaffold54	C	64399		T		C	C	C		C							
+scaffold54	c	64445		T			c										
+scaffold54	T	64500		C			T	T		T							
+scaffold54	A	64575		T		A	A	A		A							
+scaffold54	a	64626		T			a			a							
+scaffold54	G	64852		T		G	G	G		G							
+scaffold54	G	65055		A		G	G			G							
+scaffold54	C	65072		A		C	C	C		C							
+scaffold54	G	65138		A		G	G	G		G							
+scaffold54	A	65873		G		A	A	A		A							
+scaffold54	G	65880		A		G	G	G		G							
+scaffold54	g	65969		g		T	T	T		T							
+scaffold54	G	66036	G	G		T	T	T		T							
+scaffold54	T	66273		C		R	T			T							
+scaffold54	A	66643		T			A			A							
+scaffold54	T	67835		C		T	T			T							
+scaffold54	G	67860		T		G	G	G		G							
+scaffold54	G	68294		T		G	G			G							
+scaffold54	T	68311		C		T	T			T							
+scaffold54	C	68856		C		T	T			T							
+scaffold54	t	68991		t		t	R			t							
+scaffold54	t	70071		A		t	t	t		t							
+scaffold54	A	70318		A		C	C	C		C							
+scaffold54	G	70594		G		A	A	A		A							
+scaffold54	G	71981	G	G		A	A	A		A							
+scaffold54	G	72764	G	G		A	A	A		A							
+scaffold54	T	73077		T		C	C	T		T							
+scaffold54	C	73176		T		C	C	C		C							
+scaffold54	C	73250	C	C		G	G	G		G							
+scaffold54	T	73286	T	T		A	A	A		A							
+scaffold54	C	73322	C	C		A	A	A		A							
+scaffold54	C	73331	C	C		T	T	T		T							
+scaffold54	A	82729	C	C	A		A	A	A	A							
+scaffold54	T	82785		A	T		T	T	T	T							
+scaffold56	t	1970			A		A			A							
+scaffold56	T	38874	C				T			T							
+scaffold56	A	39586	G	G			A			A							
+scaffold56	g	39959	g	g	A		A		A	A							
+scaffold56	t	52340			A			A	A								
+scaffold56	A	54874		T	A		A	A	A	A							
+scaffold56	A	56578		C	A		A	A	A	A							
+scaffold57	C	1841			T	T				T							
+scaffold57	A	4939			G	G				G							
+scaffold57	G	4971			A	A				A							
+scaffold57	T	4976			C	C				C							
+scaffold57	T	5343			C	C				C							
+scaffold57	G	6068			A	A			A	A							
+scaffold57	A	6078			T	T			T	T							
+scaffold57	T	6110			C	C			C	C							
+scaffold57	G	6577			A	A				A							
+scaffold57	G	7174			A	A		A	A	A							
+scaffold57	C	8048			T	T		T	T	T							
+scaffold57	G	8065			C	C			C	C							
+scaffold57	C	8101			T	T				T							
+scaffold57	G	8419			A	A		A	A	A							
+scaffold57	T	10805			G	G			G	G							
+scaffold57	a	12008			T	T			T	T							
+scaffold57	G	12334			A	A		R	A	A							
+scaffold57	A	15816			C	C		C	C	C							
+scaffold57	t	21699			A	A			A	A							
+scaffold57	C	21935			T	T		T	T	T							
+scaffold57	G	21943			A	A		A	A	A							
+scaffold57	G	34495			A	A		A	A	A							
+scaffold57	G	39025	G		A	A	A	A	A	A							
+scaffold57	C	43589			T	T	T	T	T	T							
+scaffold57	A	44908			G	G	G	G	G	G							
+scaffold57	G	45050			A	A	A	A	A	A							
+scaffold57	C	45703			T	T	T	T	T	T							
+scaffold57	A	45889			G	G	G	G	G	G							
+scaffold57	A	48473			T	T	T	T	T	T							
+scaffold57	T	48583			C	C	C	C	C	C							
+scaffold57	T	48723			A	A	A	A	A	A							
+scaffold57	C	48993			T	T	T	T	T	T							
+scaffold57	T	49184			C	C	C	C	C	C							
+scaffold57	A	49713			G	G	G	G	G	G							
+scaffold57	C	49767			T	T	T	T	T	T							
+scaffold57	A	49887			T	T	T	T	T	T							
+scaffold57	T	49893			C	C	C	C	C	C							
+scaffold57	T	49995			A	A	A		A	A							
+scaffold57	C	50002			T	T	T		T	T							
+scaffold57	C	50026			T	T	T		T	T							
+scaffold57	C	50061			T	T	T	T	T	T							
+scaffold57	A	50164			G	G	G	G	G	G							
+scaffold57	G	50357			T	T	T	T	T	T							
+scaffold57	A	50367			T	T	T	T	T	T							
+scaffold57	G	51187			A	A	A	A	A	A							
+scaffold57	G	54469			A	A	A		A	A							
+scaffold57	C	92359		C	R	C	C		C	C							
+scaffold57	A	92369		A	R	A	A		A	A							
+scaffold58	A	28416		G	A		A	A									
+scaffold58	t	58485		A		t			t								
+scaffold58	g	65560		g		A			A								
+scaffold58	A	80096			G	G	G	G	G	G							
+scaffold58	T	80729			C	C	C	C	C	C							
+scaffold58	A	80775			G		G	G	G	G							
+scaffold58	C	81331			T		T	T	T	T							
+scaffold58	G	86105			A		A	A	A	A							
+scaffold58	A	86198			T		T	T	T	T							
+scaffold58	C	86246			T	T	T	T	T	T							
+scaffold58	A	88289			C	C	C	C	C	C							
+scaffold59	G	31091	T		G		G			G							
+scaffold59	a	58065					T	T	T	T							
+scaffold59	T	81726		C	T	T	T	T	T	T							
+scaffold59	T	94589		T	A	A	A	A	A	A							
+scaffold59	A	96638		A	C	C	C	C	C	C							
+scaffold60	t	9459		t	C												
+scaffold60	t	10135	C	C			t										
+scaffold60	a	11919		a	T			T									
+scaffold60	G	13973		A	G		G		G								
+scaffold60	T	28371	A	A	T	T	T		T	T							
+scaffold60	t	30184		G	t		t		t	t							
+scaffold60	T	75552		C	T	T		T	T	T							
+scaffold60	T	81106		A	T	T	T	T	T	T							
+scaffold60	T	81822	C	C	T	T	T	T	T	T							
+scaffold60	C	81845	A	A	C	C	C	C	C	C							
+scaffold60	a	84317			T	T		T	T	T							
+scaffold60	T	86193		T	G	G	R	G	G	G							
+scaffold60	C	88541		C	A	A	A	A		A							
+scaffold60	A	92954		A	G	G	G			G							
+scaffold60	A	96463	C	C	A	A	A	A	A	A							
+scaffold60	A	96591		A	G	G	G	G	G	G							
+scaffold60	T	96597		T	C	C	C	C	C	C							
+scaffold60	G	98004		G	A	A	A	R	A	A							
+scaffold60	T	98109		T	C	C	C		C	C							
+scaffold61	A	5212		A	C	C		C	C	C							
+scaffold61	A	5243		A	G	G		R	G	G							
+scaffold61	A	30109		G	A	A			A								
+scaffold61	a	34355		a	T	a			T	a							
+scaffold61	G	36336		G	A	A	A		A	R							
+scaffold61	A	37923		G	A	A	A	A	A	A							
+scaffold61	T	38092		C	T	T	T		T	T							
+scaffold61	A	38097		C	A	A	A		A	A							
+scaffold61	A	38115		T	A	A	A		A	A							
+scaffold61	t	41617		t	A	A	R		A								
+scaffold61	T	45142		T	C	C	C		C	R							
+scaffold61	T	60400		T	C	C	C			C							
+scaffold61	T	61261		C	T	T	T		T								
+scaffold61	G	64328		A	G	G	G			G							
+scaffold62	T	62749	C		T	T	T	T	T	T							
+scaffold63	C	2978	A		C	C	C	C		C							
+scaffold63	G	11189				A	A			A							
+scaffold63	C	11233				T	T	T	T	T							
+scaffold63	A	11407				C	C	C		C							
+scaffold63	G	11911				T	T	T		T							
+scaffold63	t	13133			A	A	A	A		A							
+scaffold63	g	15041				A	A	A		A							
+scaffold63	A	15194				C	C			C							
+scaffold63	T	16190				A	A	A		A							
+scaffold63	C	43101	C		T	T	T	T									
+scaffold63	G	46479	A		G	G	G	G	G								
+scaffold63	A	110467	G		A		A	A	A	A							
+scaffold63	A	138918	T		A			A	A	A							
+scaffold63	T	142686	T		C	C		C	C	C							
+scaffold63	T	156826	T		C	C			C	C							
+scaffold63	A	167948	G		A			A	A	A							
+scaffold63	A	168298	A		T			T	T	T							
+scaffold63	a	171149			T			T	T	T							
+scaffold63	T	171677	C		T	T		T	T	T							
+scaffold64	C	4488	A		C					C							
+scaffold64	G	4716	A		G					G							
+scaffold64	c	4814	c		A					A							
+scaffold64	G	4892	G		A					A							
+scaffold64	C	6748	T		C		C	C	C	C							
+scaffold64	C	6824	A		C					C							
+scaffold64	A	7342	A	A	T					T							
+scaffold64	A	7366	A	A	T			T		T							
+scaffold64	C	8127	T	T	C				C	C							
+scaffold64	G	8235	A	A	G				G	G							
+scaffold64	C	8259	T	T	C			C	C	C							
+scaffold64	G	8773	A		G				G	G							
+scaffold64	T	8994	C		T				T	T							
+scaffold64	T	9049	C		T					T							
+scaffold64	T	9636	C		T					T							
+scaffold64	A	9978	G		A			A	A	A							
+scaffold64	C	10129	C		T				T	T							
+scaffold64	G	10174	G		T					T							
+scaffold64	A	10683	G		A			A	A	A							
+scaffold64	C	10751	T		C			C		C							
+scaffold64	T	10943	C		T			T	T	T							
+scaffold64	a	11149	G	G	a				a	a							
+scaffold64	C	11181	T	T	C				C	C							
+scaffold64	T	11452	C		T		C	T	T	T							
+scaffold64	A	11783	C		A			A	R	A							
+scaffold64	T	12658	C	C	T				T	T							
+scaffold64	A	12918	G		A			A	A	A							
+scaffold64	A	13998	A	A	G				G	G							
+scaffold64	c	14927	c	c	A				A	A							
+scaffold64	T	15053	T	T	C			C	C	C							
+scaffold66	A	13561			T												
+scaffold68	A	2285	G	A	A	A											
+scaffold68	C	3071	T	T	C	C											
+scaffold68	A	3097	G	G	A	A											
+scaffold68	A	9740	A	A	G	G				G							
+scaffold68	C	16105	C	C	T	T	T	T	T	T							
+scaffold68	T	18988	T	T	C	C	C	C	C								
+scaffold68	T	19340	T	T	G	G	G	G	G								
+scaffold68	T	21212	C	C	T	T	T	T	T								
+scaffold68	T	21915	C	C	T	T	T	T	T	T							
+scaffold68	T	26023	T	T	C	C	C	R	C	C							
+scaffold68	A	26105	A	A	C	C	C	C	C								
+scaffold68	G	26197	G	G	T	T	T	T	T								
+scaffold68	a	29072	a	a	G		G	G	G								
+scaffold68	C	31949	T	T	C		C	C	C	C							
+scaffold68	T	34398	G	G	T	T	T	T	T	T							
+scaffold68	T	36838	C	C	T		T	T	T	T							
+scaffold68	A	38474	T	T	A		A	A	A	A							
+scaffold68	C	39352	A	A	C	C	C	C	C	C							
+scaffold68	t	39593	A	A	t		t	t	t								
+scaffold68	A	45342	C	C	A		A	A	A	A							
+scaffold68	A	46337	G	G	A		A	A	A	A							
+scaffold68	T	53516	C	C	T		T		T	T							
+scaffold68	A	54165	A	A	T		T		T	T							
+scaffold68	A	58481		G	A		A		A								
+scaffold68	C	63476		T	C	C	C		C								
+scaffold68	G	63594	G	G	A		A		A	A							
+scaffold68	C	63658	C	C	T	T	T		T								
+scaffold68	A	63694	A	A	C	C	C		C								
+scaffold68	C	63820		C	T		T		T								
+scaffold68	t	63918		C	t												
+scaffold68	T	64086		T	C		C		C								
+scaffold68	C	64271	T	T	C	C	C		C	C							
+scaffold68	C	65180		C	T		T		T	T							
+scaffold68	A	65409		A	C	C	C		C								
+scaffold68	A	65590		A	G	G	G		G								
+scaffold68	T	78307	C	C	T	T	T	T	T								
+scaffold68	C	78395	T	T	C	C	C		C								
+scaffold68	G	80153		G	A	A	A		A								
+scaffold68	A	80509	T	T	A	A	A		A								
+scaffold68	T	84061		G	T	T	T		T								
+scaffold69	C	35000		T	C	C	C		C	C							
+scaffold69	C	50141			A			A		A							
+scaffold69	T	50648			C			C		C							
+scaffold69	C	51904			T												
+scaffold69	G	51946			A												
+scaffold69	t	62464			A			A	A								
+scaffold69	G	65633			A				A								
+scaffold69	C	69917	C		T			T									
+scaffold69	T	70034	T		A			A		A							
+scaffold70	t	25235	A		t					t							
+scaffold70	c	26110	T		c			c		c							
+scaffold70	t	26138	A		t			t		t							
+scaffold70	C	26298	T		C			C		C							
+scaffold70	T	26649	C		T			T		T							
+scaffold70	C	26658	T		C			C		C							
+scaffold70	a	27359	T		a			a		a							
+scaffold70	a	28019	T		a			a		a							
+scaffold70	T	28433	T		A			A		A							
+scaffold70	C	28798	C		T			T		T							
+scaffold70	t	28803	t		G			G		G							
+scaffold70	C	28947	C		G			G	G	G							
+scaffold70	T	39458			C			C		C							
+scaffold70	A	46385			G			G		G							
+scaffold70	A	53161	G		A	A		A		A							
+scaffold70	A	54555	A		T	T		T		T							
+scaffold70	T	54875			C	C		C		C							
+scaffold70	A	55902	C		A	A		A		A							
+scaffold70	A	60256	G		A	A		A		A							
+scaffold70	T	61498			C	C		C		C							
+scaffold70	C	62813	C		T	T		T		T							
+scaffold70	a	63190	a		G	G		G		G							
+scaffold70	T	63314	T		A	A		A		A							
+scaffold70	C	63333	C		T	T		T		T							
+scaffold70	G	65408			A	A		A		A							
+scaffold70	A	65426			G	G		G		G							
+scaffold70	C	65855			T	T		T		T							
+scaffold70	C	66170	C		T	T		T		T							
+scaffold70	T	71628	T		A	A	A	A	A	A							
+scaffold70	T	95463	A		T	T			T	T							
+scaffold70	G	95563	A		G	G	G		G	G							
+scaffold70	A	96394	T		A	A	A		A	A							
+scaffold70	A	96467	G		A	A			A	A							
+scaffold70	T	96798	T		C	C	C		C	C							
+scaffold70	C	97551	T		C	C			C	C							
+scaffold70	c	97711	c		T	T			T	T							
+scaffold70	G	97934	A		G	G	G		G	G							
+scaffold70	C	98003	T		C	C			C	C							
+scaffold70	T	98345	A		T	T			T	T							
+scaffold70	t	98594	A		t	t			t	t							
+scaffold70	c	98600	T		c	c			c	c							
+scaffold70	C	98872	C		T	T			T	T							
+scaffold70	G	99404	A		G	G			G	G							
+scaffold70	G	99787	A		G	G			G	G							
+scaffold70	G	99943	A		G	G			G	G							
+scaffold70	c	100075			T	T		T	T	T							
+scaffold70	A	100401	G		A	A	A		A	A							
+scaffold70	A	101214	A		G	G	G		G	G							
+scaffold70	C	101269	C		A	A	A		A	A							
+scaffold70	C	104461	C		A	A			A	A							
+scaffold70	C	105069	T		C	C			C	C							
+scaffold70	t	105375	t		C	C			C	C							
+scaffold70	t	105650	C		t	t			t	t							
+scaffold70	c	105801	c		T	T			T	T							
+scaffold70	G	105852			A	A			A	A							
+scaffold70	C	105917	T		C	C			C	C							
+scaffold70	A	106214	A		G	G			G	G							
+scaffold70	G	106484	G		A	A			A	A							
+scaffold70	G	106673	G		A	A			A	A							
+scaffold70	A	106686	A		G	G			G	G							
+scaffold70	G	106923	G		T	T			T	T							
+scaffold70	G	106940	G		T	T			T	T							
+scaffold70	T	106951	T		C	C			C	C							
+scaffold70	A	107060	A		T	T			T	T							
+scaffold70	A	107072	A		G	G			G	G							
+scaffold70	T	107147	T		A	A			A	A							
+scaffold70	T	107155	T		C	C			C	C							
+scaffold70	T	107162	T		A	A			A	A							
+scaffold70	T	107462	A		T	T			T	T							
+scaffold72	A	14792		C	A		A	A	A	A							
+scaffold72	A	14826		C	A		A	A		A							
+scaffold72	C	14873		C	T		T			T							
+scaffold72	t	14948		A	t		t			t							
+scaffold72	A	18541		A	G		G		G	G							
+scaffold72	A	18660		G	A		A		A	A							
+scaffold72	T	19967		C	T		T		T	T							
+scaffold72	T	20024		T	C		C		C	C							
+scaffold72	t	24384		t	C	R			C	C							
+scaffold72	c	24459		c	T		T		T	T							
+scaffold72	g	24502		g	T				T	T							
+scaffold72	t	24555		t	C				C	C							
+scaffold72	A	26198		A	T				T	T							
+scaffold72	t	26349		t	C					C							
+scaffold72	c	28622		T	c				c	c							
+scaffold72	C	30501		C	T				T	T							
+scaffold72	G	30612		A	G				G	G							
+scaffold72	A	32037		G	A				A	A							
+scaffold72	G	32146		A	G				G	G							
+scaffold72	A	32153		G	A				A	A							
+scaffold72	T	32318		T	A				A	A							
+scaffold72	A	32461		G	A				A	A							
+scaffold72	T	43817	C	C		T		T									
+scaffold72	A	43895	A	A		C		C									
+scaffold72	T	43959	T	T		A	A	A									
+scaffold72	A	44016	A	A	G	G	G	G									
+scaffold72	A	44192	G	G	A	A		A		A							
+scaffold72	T	44386	T	T		C	C	C									
+scaffold72	T	44522	T	T	C	C	C	C									
+scaffold72	T	44600	T	T		C	C	C									
+scaffold72	t	44937	t	t		C		C									
+scaffold72	G	45066	T	T		G		G									
+scaffold72	A	45580	G	G		A		A									
+scaffold72	C	45610	T	T	C	C		C		C							
+scaffold72	a	45722	a	a		T		T									
+scaffold72	a	45764	a	a		T		T									
+scaffold72	G	46675	G	G	A	A	A	A	A								
+scaffold72	G	47253	T	T		G		G		G							
+scaffold72	C	47426	C	C		G	G	G									
+scaffold72	G	61421	G	G	A	A	A	A	A								
+scaffold72	G	66598	A	A	G	G	G	G									
+scaffold72	t	74337	A	A	t	t											
+scaffold72	A	74380	G	G	A	A											
+scaffold72	T	74477	A	A	T	T			T								
+scaffold72	A	74519	T	T	A	A			A								
+scaffold72	A	75559	G	G	A	A	A		A								
+scaffold72	T	76077	C	C	T	T	T		T								
+scaffold72	A	86145	A	A	C	C	C	R	C								
+scaffold72	A	92371	A	A	G	G	G	G	G								
+scaffold72	C	101408	T	T	C		C		C	C							
+scaffold72	A	116456	G	G	A	A	A		A	A							
+scaffold72	G	117296		T	G	G	G	G	G	G							
+scaffold72	A	117655	A	A	G	G	G	G	G	G							
+scaffold72	A	117760		A	G	G	G		G	G							
+scaffold72	C	117949		T	C	C	C		C	C							
+scaffold72	G	118016	G	G	A	A	A		A								
+scaffold72	C	118315		T	C	C	C	C	C								
+scaffold72	T	118741	C	C	T	T	T		T								
+scaffold72	C	120153	T	T	C	C	C	C	C								
+scaffold72	C	124127	T	T	C	C	C	C		C							
+scaffold72	t	150888		A	t		t		t	t							
+scaffold72	T	159408		T	C	C			C	C							
+scaffold72	G	164548		C	G	G		G	G	G							
+scaffold72	G	167070		A	G				G	G							
+scaffold72	A	169229	A	A	T	T			T	T							
+scaffold73	C	8036		T	C		C			C							
+scaffold73	c	12117		T	c		c			c							
+scaffold73	C	15903		T	C	C	C		C	C							
+scaffold73	t	23805		t	C	C	C	C	C	C							
+scaffold73	T	28183		T	C	C	C		C	C							
+scaffold73	t	49670		C	t		t		t	t							
+scaffold73	a	56411		a	T		T		T	T							
+scaffold73	C	64873		C				A		A							
+scaffold74	C	1497		T	R	T	T	T	R	T							
+scaffold74	A	1502		G	R	G	G	G	R	G							
+scaffold74	A	1512		G	R	G	G	G	R	G							
+scaffold74	G	1518		A	R	A	A	A	R	A							
+scaffold74	A	1524		C	R	C	C	C	R	C							
+scaffold74	T	1571		A		A	A	A		A							
+scaffold75	C	1783		C	A	A	A	A		A							
+scaffold76	C	6361	C		A		A		A								
+scaffold76	t	33692			A		A			A							
+scaffold76	A	57412			T		T	T	T	T							
+scaffold76	A	58469			C		C		C	C							
+scaffold76	T	61547		C	T	T	T		T	T							
+scaffold76	C	65426		C	T	T	T	T	T	T							
+scaffold76	C	173354		T	C		C		C	C							
+scaffold76	T	173465		C	T		T		T	T							
+scaffold76	T	173619		T	A		A		A	A							
+scaffold76	C	173693		C	T		T		T	T							
+scaffold76	G	173811		G	T		T		T	T							
+scaffold76	t	174736		A	t		t		t	t							
+scaffold76	t	175756		t	A				A	A							
+scaffold76	t	175784		t	C				C	C							
+scaffold76	a	178858		T	a		a		a	a							
+scaffold76	A	179318		C	A		A		A	A							
+scaffold76	T	179352		C	T		T		T	T							
+scaffold76	T	179360		C	T		T		T	T							
+scaffold76	G	181384		C	G		G		G	G							
+scaffold76	A	181817			G		G		G	G							
+scaffold76	A	182293		T	A		A		A	A							
+scaffold76	a	185730		a	a		a		T	T							
+scaffold76	a	185735		a	T		T		T	T							
+scaffold77	T	10625		T		C	C			C							
+scaffold77	T	17330		T	A	A	A		A	A							
+scaffold77	C	17858		C		A	A		A	A							
+scaffold77	g	18326		A	g	g	g	g	g	g							
+scaffold77	t	18416		t	A	A	A		A	A							
+scaffold77	T	25094	T	T		A	A	A		A							
+scaffold77	G	25637	A	A		G	G	G		G							
+scaffold77	T	26732		T	C	C	C	C	C	C							
+scaffold77	c	37917	c	c			T	T		T							
+scaffold77	g	39340		g	A		A	A		A							
+scaffold77	A	39842	G	G		R	A	A		A							
+scaffold77	G	40365		A	G		G	G	G	G							
+scaffold77	T	44526	T	T			A	A		A							
+scaffold77	C	45581	C	C			T	T		T							
+scaffold77	T	53201		G	T		T	T		T							
+scaffold77	C	54383		T	C			C		C							
+scaffold77	C	57615	C	C	A		A	A	A	A							
+scaffold77	C	77671	T	T	C	C	C		C	C							
+scaffold77	C	78209	T	T		C			C	C							
+scaffold77	C	78241	T	T	C	C	C		C	C							
+scaffold77	t	82336	A	A	t	t			t	t							
+scaffold77	T	98936		C	T	T			T								
+scaffold78	C	42863			T	T	T	T	T								
+scaffold78	C	42914			G	G	G	G	G	G							
+scaffold78	t	44263			G	G	G	G	G								
+scaffold78	c	44347			T	T	T	T	T								
+scaffold78	g	44362			A	A	A	A	A								
+scaffold78	g	44975			A	A	A	A	A								
+scaffold78	c	45108			A	A	A	A	A	A							
+scaffold78	t	46163			A	A	A	A	A	A							
+scaffold78	A	54823			G	G	G		G								
+scaffold78	a	69532	G		a	a	a										
+scaffold78	A	75378	G		A	A	A										
+scaffold78	A	86516	A		G	G	G		G	G							
+scaffold78	C	89307	A		C	C	C		C	C							
+scaffold78	A	90061	G		A	A	A		A	A							
+scaffold78	C	90408	T		C	C	C		C	C							
+scaffold78	G	92876	A		G	G	G		G	G							
+scaffold78	T	95381	T		C	C	C		C	C							
+scaffold78	C	95765	C		T	T	T		T	T							
+scaffold78	G	96962	A		G	G	G		G	G							
+scaffold78	A	108219	G		A	A	A		A	A							
+scaffold78	T	112325	A		T	T	T		T	T							
+scaffold78	a	112373	T		a	a	a		a	a							
+scaffold79	A	57613		A	G		A		A	G							
+scaffold79	T	57626		T	C		C	R	R	C							
+scaffold79	G	57670		G	A		G		G	A							
+scaffold79	A	57685		A	T		R			T							
+scaffold79	A	84911		A	A	A	R	A	A	R							
+scaffold79	T	84924		C	C	R	C		R	C							
+scaffold82	C	1966	T	C	C		C		C	C							
+scaffold82	G	5963			A	A	A			A							
+scaffold82	T	7463			C	C			C	C							
+scaffold82	T	7620			A	A	A			A							
+scaffold82	C	8226			T	T	T			T							
+scaffold82	A	8787			G	G	G		G	G							
+scaffold82	T	8973			C	C	C			C							
+scaffold82	T	9046			C	C	C		C	C							
+scaffold82	C	9112			T	T	T			T							
+scaffold82	A	9123			T	T	T			T							
+scaffold82	C	9283			T	T				T							
+scaffold82	A	9338			T	T	T		R	T							
+scaffold82	G	9612			A	A	A			A							
+scaffold82	t	9643			C	C				C							
+scaffold82	a	9677			G	G				G							
+scaffold82	G	54113				A	A	A	A	A							
+scaffold82	G	61096	G			C	C	C	C	C							
+scaffold82	T	67175	G	G		T	T		T	T							
+scaffold82	T	76525	G	G		T				T							
+scaffold82	C	77356		T						C							
+scaffold82	T	87854		T		C				C							
+scaffold82	C	89488	C	C		T				T							
+scaffold82	A	89667		A		G		R		G							
+scaffold82	t	90719		t						A							
+scaffold82	A	91310		G		A			A	A							
+scaffold82	T	91355		C					T	T							
+scaffold82	A	91373		G					A	A							
+scaffold82	A	92347	A	A		T				T							
+scaffold82	C	94137	T	T		C			C	C							
+scaffold82	t	94349		t						A							
+scaffold82	t	94360		t						A							
+scaffold82	C	94464		C		A				A							
+scaffold82	a	94624	a	T		a				a							
+scaffold82	A	94815		A		C		C	C	C							
+scaffold82	C	94923		C		T				T							
+scaffold82	A	95060		T	A	A				A							
+scaffold82	A	95256		G		A		A	A	A							
+scaffold82	T	95570	C	C		T			T	T							
+scaffold82	G	96180		G		A				A							
+scaffold82	T	97695		T						C							
+scaffold82	A	97742		A						G							
+scaffold82	T	97788		T		C				C							
+scaffold82	T	98059		T				C	C	C							
+scaffold82	G	98441		A		G		G	G	G							
+scaffold84	C	1162		T		C	C										
+scaffold84	T	4510	T				A										
+scaffold84	A	10996		G		A	A			A							
+scaffold84	T	11920		T	A	A	A			A							
+scaffold84	a	12032	T			a	a		a	a							
+scaffold84	A	29242	A	A		T	T			T							
+scaffold84	G	34677	G	G		T	T	T		T							
+scaffold85	A	1267		A		G	G										
+scaffold85	A	6178		A	G	G	G										
+scaffold85	G	7721		A	G	G	G			G							
+scaffold85	T	21050		T	C	C	C			C							
+scaffold85	a	27963			T		T	T		T							
+scaffold85	T	44487		C	T	T	T			T							
+scaffold85	T	44503	T	C	T	T	T			T							
+scaffold85	C	44539	C	T	C	C	C			C							
+scaffold85	A	44568		G	A	A	A	A		A							
+scaffold85	G	44945		A	G	G	G			G							
+scaffold85	G	49178		T	G	G		G									
+scaffold85	T	49318		C	T	T		T									
+scaffold85	g	60004	A		g		g		g	g							
+scaffold85	A	75925	G	G		A	A		A	A							
+scaffold85	C	80952	T	C	C	C	C		C	C							
+scaffold85	g	81279	A			g	g		g	g							
+scaffold86	T	16994	C	C	T	T	T	T	T	T							
+scaffold86	T	18106		C	T	T	T	T	T	T							
+scaffold86	C	23360		C	A	A	A	A	A	A							
+scaffold86	a	23840		G	a	a	a	a	a								
+scaffold86	T	23872		C	T	T	T	T	T	T							
+scaffold86	G	23893		A	G	G	G	G	G	G							
+scaffold86	C	25484		T	C	C	C	C	C	C							
+scaffold86	A	25501		G	A	A	A	A	A	A							
+scaffold86	T	25525		A	T	T	T	T	T	T							
+scaffold86	T	25538		C	T	T	T	T	T	T							
+scaffold86	G	25665		A	G	G	G	G	G	G							
+scaffold86	G	43892		G	A	A	A	A	A	A							
+scaffold86	A	44517		A	G	G	G	G	G	G							
+scaffold86	G	54350		C	G	G	G	G	G								
+scaffold86	A	62496		G	A	A	A	A	A								
+scaffold87	G	3944		G	A	A	A	R	A	A							
+scaffold87	a	4373		a	G	G	G	G	G	G							
+scaffold87	a	4484		T	a	a	a		a	a							
+scaffold87	t	4490		G	t	t	t		t	t							
+scaffold87	A	4518		G	A	A	A		A	A							
+scaffold87	G	4641		G	T	T	T	T	T	T							
+scaffold87	g	4672		g	T	T	T		T	T							
+scaffold87	C	5042		C	T	T	T	T	T	T							
+scaffold87	T	5127		T	A	A	A	A	A	A							
+scaffold87	a	9247		C	a	a	a		a	a							
+scaffold87	C	9341		C	T	T	R		T	T							
+scaffold87	T	9406		T	C	C	C		C	C							
+scaffold87	A	9494		T	A	A	A		A	A							
+scaffold87	G	9518		A	G	G	G		G	G							
+scaffold87	a	13923		T	a					a							
+scaffold87	a	14201		G	a		a			a							
+scaffold87	T	14255		C	T		T			T							
+scaffold87	t	23247		t	A					A							
+scaffold87	G	27141		A	G	G	G			G							
+scaffold87	T	27198		A		T	T			T							
+scaffold87	G	27318		A	G	G	G			G							
+scaffold87	C	27366		G	C	C	C			C							
+scaffold87	T	27621		T	C	C	C			C							
+scaffold87	T	27701		C	T	T				T							
+scaffold87	T	27708		C	T	T				T							
+scaffold87	G	27725		C	G	G				G							
+scaffold87	g	28046		A	g	g				g							
+scaffold87	C	29040		T	C	C	C			C							
+scaffold87	a	29488		G	a	a	a			a							
+scaffold87	c	30007		T	c	c	c	c		c							
+scaffold87	C	33759		C		T				T							
+scaffold87	G	36240		A	G	G	G			G							
+scaffold87	a	42477		a	T	T	T			T							
+scaffold87	G	53518		A	G	G	G	G		G							
+scaffold87	G	54107		G	C	C	C	C	R	C							
+scaffold87	T	58698		C	T	T	T	T	T								
+scaffold87	a	60895		T	a		a										
+scaffold87	a	61278		G	a	a	a										
+scaffold87	G	62056		G		R	A		A								
+scaffold87	T	63386		T	G	G	G	G	G	G							
+scaffold87	A	64837		G	A		A	A	A								
+scaffold87	C	65230		A	C		C	C	C								
+scaffold87	C	65283		T	C		C	C	C	C							
+scaffold88	C	2497	T			C			C								
+scaffold88	G	30533			A					A							
+scaffold88	t	30726			t					A							
+scaffold88	a	32569			C					C							
+scaffold88	G	48132	G		A	A	A			A							
+scaffold88	T	48206			A	A	A			A							
+scaffold88	G	48232			A	A	A										
+scaffold89	a	12067	T		a		a			a							
+scaffold89	C	15422			T	T	T		T	T							
+scaffold89	C	18584	A		C	C	C		C								
+scaffold89	A	46101	A		G		G		G	G							
+scaffold89	t	84686			A	A	A		A	A							
+scaffold89	A	88799	G		A		A	A	A								
+scaffold89	G	88998	G	G	A		A	A	A								
+scaffold89	C	89111	C	C	A		A	A									
+scaffold89	G	89415	A	G	G		G	G	G	G							
+scaffold89	A	89432	G	A	A		A	A	A	A							
+scaffold91	t	2923		t	A	A				A							
+scaffold91	C	9591		T	C	C				C							
+scaffold91	T	9829		T	C	C				C							
+scaffold91	C	9888		T	C	C			C	C							
+scaffold91	T	9913		C	T	T			T	T							
+scaffold91	T	9984		C	T	T				T							
+scaffold91	A	10018		G	A	A				A							
+scaffold91	T	10435		C	T	T			T	T							
+scaffold91	A	10600		G	A	A			A	A							
+scaffold91	c	11661		c	T	T			T	T							
+scaffold91	G	12568		T	G	G			G	G							
+scaffold91	T	12689		C	T	T			T	T							
+scaffold91	t	12704		A	t	t			t	t							
+scaffold91	A	12900		G	A	A			A	A							
+scaffold91	T	12914		G	T	T			T	T							
+scaffold91	G	12957		A	G	G			G	G							
+scaffold91	T	12968		C	T	T			T	T							
+scaffold91	C	13041		A	C	C			C	C							
+scaffold91	T	13229		C	T	T				T							
+scaffold91	C	13556		T	C	C			C	C							
+scaffold91	A	13651		C	A	A			A	A							
+scaffold91	A	14980		C	A	A			A	A							
+scaffold91	C	15050		T	C	C			C								
+scaffold91	G	15260		T	G	G			G	G							
+scaffold91	t	15302		A	t	t			t	t							
+scaffold91	T	16065		T	A	A			A	A							
+scaffold91	G	62884	G		A	A		A	A	A							
+scaffold91	A	88889	T	T	A		A	A	A	A							
+scaffold91	T	89221		C	T		T	T		T							
+scaffold91	a	89249		C	a	a	a	a		a							
+scaffold91	A	89725		A	T		T	T	T	T							
+scaffold91	T	89827		T	A		A	A	A	A							
+scaffold91	A	91590	A	A	G		G	G	G	G							
+scaffold91	C	91603	C	C	T		T	T	T	T							
+scaffold91	G	93514		A	G		G	G	G	G							
+scaffold91	G	94021		G	A		A	A		A							
+scaffold91	T	94129		C	T		T	T		T							
+scaffold91	T	95910		T	C		C	R	C	C							
+scaffold91	A	95953		A	T		T	T	T	T							
+scaffold91	G	96047		A	G		G	G	G	G							
+scaffold91	A	96052		G	A		A	A	A	A							
+scaffold91	T	96057		C	T		T	T	T	T							
+scaffold91	T	96318	T	T	G		R			G							
+scaffold91	G	96383		G	T		T	T		T							
+scaffold91	G	96409		G	A		A			A							
+scaffold91	A	96455		A	G		G			G							
+scaffold91	a	96716		T	a		a		a	a							
+scaffold91	T	96807		T	C		C	C		C							
+scaffold91	C	96916		T	C		C	C		C							
+scaffold91	G	97574	T	T	G		G		G	G							
+scaffold91	A	97708	G	G	A		A		A	A							
+scaffold91	G	120012	G	G	T	T	T			T							
+scaffold91	A	120041	A	A	G	G	G			G							
+scaffold91	C	120127	C	C		T	T		R	T							
+scaffold91	C	120332	T	T	C	C	C			C							
+scaffold91	T	120339	C	C	T	T	T			T							
+scaffold91	A	120439	T	T	A	A	A			A							
+scaffold91	T	122790	T	T	C	C	C			C							
+scaffold91	T	122817	T	T		C	C			C							
+scaffold91	C	123036	C	C			T			T							
+scaffold91	C	123257	C	C		T	T			T							
+scaffold91	T	123322	T	T		C	C			C							
+scaffold91	C	123335	C	C		A	A			A							
+scaffold91	T	123355	T	T			A			A							
+scaffold91	a	123495		a			G			G							
+scaffold91	C	123556		C			T			T							
+scaffold91	C	123676		C		T	T			T							
+scaffold91	A	123686		A		T	T		T	T							
+scaffold91	T	123703		T		C	C			C							
+scaffold91	G	123764		G			A			A							
+scaffold91	A	123810		A			G			G							
+scaffold91	T	123820		T			C			C							
+scaffold91	a	126154					T			T							
+scaffold91	a	126327		a			G			G							
+scaffold91	G	130884	G	G	A		A		R	A							
+scaffold92	G	17861		A	G	R	G	G		G							
+scaffold92	G	17887		A	G	R	G	G		G							
+scaffold92	C	17925		T	C	R	C	C		C							
+scaffold93	t	884			A		A			A							
+scaffold93	G	1357			A		A			A							
+scaffold93	T	34473			C	R	C		C	C							
+scaffold93	T	77642	T	T	C	C	C		C	C							
+scaffold93	T	81226	T	T		G	G		G	G							
+scaffold93	G	82602	G	G		T			T	T							
+scaffold93	A	82665	G	G		A			A	A							
+scaffold93	a	83170	T	T	a	a			a	a							
+scaffold93	G	83832	A	A	G	G	R		G	G							
+scaffold93	A	84272	A	A		T	T		T	T							
+scaffold93	C	85304	A	A		C			C	C							
+scaffold93	C	85347	T	T		C	R	C	C	C							
+scaffold93	C	85712	A	A		C		C	C	C							
+scaffold93	A	85749	T	T		A		A	A	A							
+scaffold93	t	85875	A	A		t			t	t							
+scaffold94	T	11550	T		C		C		C	C							
+scaffold94	C	15024			T		T			T							
+scaffold94	T	16277	G		T		T										
+scaffold94	t	16437			A		A		A								
+scaffold94	T	17140			C		C			C							
+scaffold94	C	17312					T			T							
+scaffold94	A	17440	G		A	A	A			A							
+scaffold94	G	17681			T		T		T	T							
+scaffold94	C	18271			A		A		A	A							
+scaffold94	A	27899	A		G		G		G	G							
+scaffold94	t	30372								A							
+scaffold94	t	35608	t		A				A	A							
+scaffold94	A	43362			G				G	G							
+scaffold94	T	63446		A	T		T		T	T							
+scaffold94	A	69358			T					T							
+scaffold94	G	69934			A					A							
+scaffold94	G	69947			A				A	A							
+scaffold94	A	71156			G					G							
+scaffold94	G	73396			A					A							
+scaffold95	C	8687			T												
+scaffold95	A	9115			G	G			G								
+scaffold95	T	17770			C	C	C		C								
+scaffold95	a	22388			G	G		G	G								
+scaffold95	C	27336			A	A		A	A								
+scaffold95	A	33334			T			T	T								
+scaffold95	A	35991			G			G	G								
+scaffold95	A	70278	G	G	A	A	A	A	A	A							
+scaffold95	C	70403	C	C	T	T	T	T	T	T							
+scaffold95	A	70445	A	A	G	G	G	G	G	G							
+scaffold95	T	71775	T	T	C	C	C	C	C	C							
+scaffold95	G	72778	G	G	T	T	T	T	T	T							
+scaffold95	C	72963	C	C	A	A	A		A	A							
+scaffold95	G	73342	G	G	A	A	A	A	A	A							
+scaffold95	G	73609	G	G	A	A	A	A	A	A							
+scaffold95	C	74334	T	T	C	C	C	C	C	C							
+scaffold95	G	77213	A	A	G	G	G	G	G	G							
+scaffold95	t	77267	t	t	R	C			C	C							
+scaffold95	a	77536	a	a	T	T			T	T							
+scaffold95	A	77654	A	A	G	G		G	G	G							
+scaffold96	A	48020			G			G	G								
+scaffold96	A	55051	C					A	A								
+scaffold96	A	57282	A			G		G	G								
+scaffold96	C	57297	C		T	T		T	T								
+scaffold96	a	57443	G		a	a		a	a								
+scaffold96	g	57510	T		g	g			g								
+scaffold96	c	57543	T		c				c								
+scaffold96	a	57568	G		a			a	a								
+scaffold96	T	57848	C		T			T	T	T							
+scaffold96	T	57870	C		T			T	T	T							
+scaffold96	G	58841	C		G			G	G								
+scaffold96	A	59168	G		A				A	A							
+scaffold96	T	61873	T		C			C	C								
+scaffold96	C	62717	C		G				G	G							
+scaffold96	c	63037	T		c				c								
+scaffold96	G	63080	A		G				G								
+scaffold96	G	63138	A		G				G								
+scaffold96	t	63423	t		C												
+scaffold96	A	63540	G				A	A									
+scaffold96	A	68177	A		G												
+scaffold96	T	73024	T						C								
+scaffold96	T	73881	T		C			C									
+scaffold97	C	21004	C	C		T	T		T	T							
+scaffold97	a	23087	a			T			T	T							
+scaffold97	T	27409		A		T	T	T	T	T							
+scaffold97	T	44456		A		T		T	T	T							
+scaffold97	T	48063		C					T	T							
+scaffold97	t	112922	t	t	A	A		A		A							
+scaffold97	a	117062	T	T	a	a	a	a		a							
+scaffold97	a	137583	a	a	T		T	T	T	T							
+scaffold97	t	143932	t	t	A		A	A	R	A							
+scaffold97	T	163415	C	C	T		T	T	T	T							
+scaffold97	C	165732	T	T	C		C	C	C	C							
+scaffold97	G	169792	G	G	A		A	A	A	A							
+scaffold97	a	169961	T		a		a	a	a	a							
+scaffold97	A	171036	A	A	G		G	G	G	G							
+scaffold98	G	35536			C	C	C	C	C	C							
+scaffold98	c	36404			A	A	A	A	A	A							
+scaffold98	a	36430			T	T	T	T	T	T							
+scaffold98	A	36516			T	T	T	T	T	T							
+scaffold98	C	38245			T	C	T	T	T	T							
+scaffold98	T	38254			C	C	C	C	C	C							
+scaffold98	C	38268			T	T	T	T	T	T							
+scaffold98	C	38448				A	A	A	A	A							
+scaffold98	G	38476			T	T	T	T	T	T							
+scaffold98	C	38687			A	A	A	A	A	A							
+scaffold98	G	39458			A	A	A	A	A	A							
+scaffold98	a	39761			G	G	G	G	G	G							
+scaffold98	g	39928			A	A	A	A	A	A							
+scaffold98	C	40097			G	G	G	G	G	G							
+scaffold98	T	40595			G		G	G	G	G							
+scaffold98	C	40897					T	T	T	T							
+scaffold98	T	41469			C	C	C		C	C							
+scaffold98	c	41664			T	T	T		T	T							
+scaffold98	C	41896			A		A	A	A	A							
+scaffold99	C	30107	C	C	T	T	T		T	T							
+scaffold100	C	76885		C		T	T	R	T	T							???????????????퓔ￔ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????퓔ￔ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????퓔ￔ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????퓔ￔ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????퓔ￔ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????퓔ￔ????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????퓔ￔ????????????????????????????????????????????????????????????
+scaffold																	
