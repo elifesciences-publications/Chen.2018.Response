@@ -1,0 +1,1 @@
+These files are used for making Figure S2. The .sam files are extracted from the single nucleus aligned reads, the reads mapping to the regions identified as mating type loci. The identies of the reads are extracted with a bash script, and counted. This is plotted with the R script.
