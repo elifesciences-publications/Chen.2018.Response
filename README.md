@@ -4,4 +4,4 @@ These scripts and files were used to re-analyize the Chen et al., 2018 manuscrip
 
 This analysis is based on single-nucleus data from three isolates; A4, A5, and SL1. 
 
-The files to make each Figure are in their own folder. In this main folder can be found the python script that does the bulk of the work, this calculates the read depth using the pysam module.
+The files to make each Figure are in their own folder. In this main folder can be found the python script that does the bulk of the work, this calculates the read depth using the pysam module. This script also calculates the blast hits for each position using biopython.
