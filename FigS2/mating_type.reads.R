@@ -70,14 +70,14 @@ p3 <- ggplot() +
   geom_bar(data =SL1[which(SL1$m11994>0),], aes(x=labels, y=log11994),stat = "identity",fill="#fae041ff",color="black") +
   scale_x_discrete(limits=SL1$labels) + coord_flip() +
   scale_y_continuous(breaks = c(-3,-2,-1,0,1,2,3),labels=c("1000","100","10","1","10","100","1000"),limits=c(-4.5,4))+
-  ylab('mat-5(scaffold_11899)           mat-1(scaffold_11994) \n Number of reads mapped to:') + ggtitle("Mapped reads to alternate mating\nloci for SL1 nuclei")+
+  ylab('mat-1(scaffold_11994)           mat-5(scaffold_11899) \n Number of reads mapped to:') + ggtitle("Mapped reads to alternate mating\nloci for SL1 nuclei")+
   geom_rect(aes(ymin=-4.5,ymax=-3.8,
                 xmin=which(SL1$labels %in% SL1_mat1)-0.4,
                 xmax=which(SL1$labels %in% SL1_mat1)+0.4),fill="#ed7facff")+
   geom_rect(aes(ymin=-4.5,ymax=-3.8,
                 xmin=which(SL1$labels %in% SL1_mat5)-0.4,
                 xmax=which(SL1$labels %in% SL1_mat5)+0.4),fill="#fae041ff")
-png("/Users/user/Desktop/Chen.analysis/mating_read.March26.png",width=1500,height=500)
+png("/Users/user/Desktop/Chen.analysis/mating_read.Sep1.png",width=1500,height=500)
 grid.arrange(p1,p2,p3,nrow=1)
 dev.off()
 
